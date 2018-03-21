@@ -40,7 +40,7 @@ collections:
     output: true
 
 # Gems
-gems:
+plugins:
    - jekyll/scholar
 
 scholar:
