@@ -36,6 +36,9 @@ body {
 a {
   color: $link-color;
   }
+.active a{
+    color: $link-color;
+    }
 
 a > .fa {
     // make sure that font-awesome icons are underlined in links
