@@ -22,8 +22,8 @@ kartikgo:
     display_name: "Kartik Goyal"
     role: grad
     webpage: "https://sites.google.com/site/kartikgoyy/"
-    image: /img/people/kartikgo.jpg
-    bio: "Ph.D, student"
+#   image: /img/people/kartikgo.jpg
+    bio: "Ph.D. student"
 
 junxian1:
     display_name: "Junxian He"
@@ -42,7 +42,7 @@ jharsh:
 kmaki:
     display_name: "Keith Maki"
     role: grad
-    image: /img/people/kmaki.jpg
+#   image: /img/people/kmaki.jpg
     bio: "Ph.D. student"
 
 mryskina:
@@ -55,6 +55,7 @@ mryskina:
 dspokoyn:
     display_name: "Daniel Spokoyny"
     role: grad
+    webpage: "https://spokoyny.github.io/"
     image: /img/people/dspokoyn.jpeg
     bio: "Ph.D. student"
 
@@ -69,7 +70,7 @@ jwieting:
     display_name: John Wieting
     webpage: "http://www.cs.cmu.edu/~jwieting/"
     role: grad
-    image: /img/people/jwieting.jpg
+#   image: /img/people/jwieting.jpg
     bio: "Ph.D. student"
 
 zichaoy:
