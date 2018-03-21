@@ -39,6 +39,15 @@ collections:
   projects:
     output: true
 
+# Gems
+gems:
+   - jekyll/scholar
+
+scholar:
+   source: /bib/
+   bibliography: berglab.bib
+   bibliography_template: bib
+
 # Navigation bar links.
 navigation:
   - title: Home
@@ -49,5 +58,7 @@ navigation:
   #   link: /research.html
   - title: Publications
     link: /publications.html
+  - title: Pubs
+    link: /pubs.html
   - title: Code
     link: /code.html
