@@ -15,11 +15,13 @@ build: _includes/pubs.html
 # you can configure these at the shell, e.g.:
 # SERVE_PORT=5001 make serve
 SERVE_HOST ?= 127.0.0.1
-SERVE_PORT ?= 5000
+SERVE_PORT ?= 5002
 
 serve: _includes/pubs.html
 	jekyll serve --port $(SERVE_PORT) --host $(SERVE_HOST)
 
+clean:
+	$(RM) -r _site
 
 DEPLOY_HOST ?= yourwebpage.com
 DEPLOY_PATH ?= www/
