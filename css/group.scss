@@ -35,20 +35,11 @@ body {
 
 a {
   color: $link-color;
-  }
+}
 
-.nav-link > li.active > a,
+.nav-link.active{
 
-.nav-link > li.active > a:focus,
-
-.nav-link > li.active > a:hover{
-
-background-color: #68889E !important;
-
-color:#fff;
-
-border:2px solid #3F515F;
-
+background-color: $link-color !important;
 }
 
 
