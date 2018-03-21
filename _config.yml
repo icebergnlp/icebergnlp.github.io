@@ -1,5 +1,5 @@
-name: Awesome Research Group
-url: http://awesome.example.edu
+name: BergLab
+url: https://icebergnlp.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -60,5 +60,3 @@ navigation:
     link: /publications.html
   - title: Pubs
     link: /pubs.html
-  - title: Code
-    link: /code.html
