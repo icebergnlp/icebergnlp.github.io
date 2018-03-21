@@ -37,7 +37,7 @@ a {
   color: $link-color;
 }
 
-.nav-link.active{
+a > .nav-link.active{
 
 background-color: $link-color !important;
 }
