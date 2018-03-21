@@ -14,57 +14,67 @@ tberg:
 vcirik:
     display_name: "Volkan Cirik"
     webpage: "https://www.cs.cmu.edu/~vcirik/"
-    role: grad-phd
+    role: grad
     image: /img/people/vcirik.jpg
+    bio: "Ph.D. student"
 
 kartikgo:
     display_name: "Kartik Goyal"
-    role: grad-phd
+    role: grad
     webpage: "https://sites.google.com/site/kartikgoyy/"
     image: /img/people/kartikgo.jpg
+    bio: "Ph.D, student"
 
 junxian1:
     display_name: "Junxian He"
-    role: grad-phd
+    role: grad
     webpage: "https://jxhe.github.io/"
     image: /img/people/junxian1.jpg
+    bio: "Ph.D. student"
 
 jharsh:
     display_name: "Harsh Jhamtani"
     webpage: "https://sites.google.com/view/harshjhamtani/home"
-    role: grad-ms
+    role: grad
     image: /img/people/jharsh.jpg
+    bio: "MLT student"
 
 kmaki:
     display_name: "Keith Maki"
-    role: grad-phd
-    image: "/img/people/kmaki.jpg"
+    role: grad
+    image: /img/people/kmaki.jpg
+    bio: "Ph.D. student"
 
 mryskina:
     display_name: "Maria Ryskina"
     webpage: "http://www.cs.cmu.edu/~mryskina/"
-    role: grad-phd
+    role: grad
     image: /img/people/mryskina.jpg
+    bio: "Ph.D. student"
 
 dspokoyn:
     display_name: "Daniel Spokoyny"
-    role: grad-phd
-    image: /img/people/dspokoyn.jpg
+    role: grad
+    image: /img/people/dspokoyn.jpeg
+    bio: "Ph.D. student"
 
 asrivats:
     display_name: Akshay Srivatsan
     webpage: "http://www.cs.cmu.edu/~asrivats/"
-    role: grad-phd
+    role: grad
     image: /img/people/asrivats.jpg
+    bio: "Ph.D. student"
 
 jwieting:
     display_name: John Wieting
     webpage: "http://www.cs.cmu.edu/~jwieting/"
-    role: grad-phd
+    role: grad
     image: /img/people/jwieting.jpg
+    bio: "Ph.D. student"
 
 zichaoy:
     display_name: Zichao Yang
     webpage: "http://www.cs.cmu.edu/~zichaoy/"
-    role: grad-phd
+    role: grad
     image: /img/people/zichaoy.jpg
+    bio: "Ph.D. student"
