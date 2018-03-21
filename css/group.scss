@@ -3,6 +3,7 @@
 
 $gray: #999;
 $light-gray: #EEE;
+$link-color: #428bca;
 
 /* Space out content a bit */
 body {
@@ -31,6 +32,11 @@ body {
 .fa {
     color: $gray;
 }
+
+a {
+  color: $link-color;
+  }
+
 a > .fa {
     // make sure that font-awesome icons are underlined in links
     display: inline;
@@ -54,7 +60,7 @@ a > .fa {
 /* Group logo */
 #logo {
     width: 154px;
-    height: 35px;
+    height: 62px;
     margin: 2px 0 8px 0;
 }
 
