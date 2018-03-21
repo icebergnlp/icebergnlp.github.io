@@ -46,6 +46,11 @@
 			{{ entry.fields['abstract'] |escape }}
 			</div>
 			{%- endif %}
+			{%- if entry.fields['repository'] %}
+			<img src="img/pdficon_small.png" width="16"
+					height="16" alt="PDF" />
+			<a href="{{ repository|escape }}">code</a>.
+			{%- endif %}
 		</td>
 	</tr>
 	{%- endfor %}
