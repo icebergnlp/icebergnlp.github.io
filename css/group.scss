@@ -36,10 +36,10 @@ body {
 a {
   color: $link-color;
   }
-.active a{
-    color: $link-color;
-    }
-
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+  color: $link-color;
+  background-color: $link-color;
+}
 a > .fa {
     // make sure that font-awesome icons are underlined in links
     display: inline;
