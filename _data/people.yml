@@ -70,7 +70,7 @@ jwieting:
     display_name: John Wieting
     webpage: "http://www.cs.cmu.edu/~jwieting/"
     role: grad
-#   image: /img/people/jwieting.jpg
+    image: /img/people/jwieting.jpg
     bio: "Ph.D. student"
 
 zichaoy:
