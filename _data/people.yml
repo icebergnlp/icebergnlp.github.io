@@ -21,7 +21,7 @@ vcirik:
 kartikgo:
     display_name: "Kartik Goyal"
     role: grad
-    webpage: "https://sites.google.com/site/kartikgoyy/"
+    webpage: "http://www.cs.cmu.edu/~kartikgo"
 #   image: /img/people/kartikgo.jpg
     bio: "Ph.D. student"
 
@@ -37,7 +37,7 @@ jharsh:
     webpage: "https://sites.google.com/view/harshjhamtani/home"
     role: grad
     image: /img/people/jharsh.jpg
-    bio: "MLT student"
+    bio: "Ph.D. student"
 
 kmaki:
     display_name: "Keith Maki"
