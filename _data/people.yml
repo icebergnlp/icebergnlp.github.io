@@ -79,3 +79,10 @@ zichaoy:
     role: grad
     image: /img/people/zichaoy.jpg
     bio: "Ph.D. student"
+
+nvog:
+    display_name: "Nikolai Vogler"
+    webpage: "http://convolutional.net"
+    role: grad
+    image: /img/people/nvog.jpg
+    bio: "Ph.D. student"
