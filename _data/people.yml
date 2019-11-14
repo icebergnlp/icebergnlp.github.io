@@ -56,7 +56,7 @@ swu:
     display_name: "Si Wu"
     webpage: "http://siwu.io"
     role: undergrad
-    image:/image/people/swu.jpg
+    image: /image/people/swu.jpg
     bio: "Undergraduate student"
 dspokoyn:
     display_name: "Daniel Spokoyny"
