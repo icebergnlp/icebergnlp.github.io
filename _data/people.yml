@@ -52,6 +52,12 @@ mryskina:
     image: /img/people/mryskina.jpg
     bio: "Ph.D. student"
 
+swu:
+    display_name: "Si Wu"
+    webpage: "http://siwu.io"
+    role: undergrad
+    image:/image/people/swu.jpg
+    bio: "Undergraduate student"
 dspokoyn:
     display_name: "Daniel Spokoyny"
     role: grad
