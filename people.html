@@ -25,7 +25,7 @@ no-picture-role-groups:
     {% for role-group in page.no-picture-role-groups %}
         <div class="col-md-{{ role-group.width }}">
             {% for role in role-group.roles %}
-                {% include role-people.html role=role image=false %}
+                {% include role-people.html role=role image=true %}
             {% endfor %}
         </div>
     {% endfor %}
