@@ -93,3 +93,10 @@ nvog:
     role: grad
     image: /img/people/nvog.jpg
     bio: "Ph.D. student"
+
+kishore:
+    display_name: "Kishore P. V."
+    webpage: "https://kishorepv.github.io"
+    role: grad
+    image: /img/people/nvog.jpg
+    bio: "MS student"
