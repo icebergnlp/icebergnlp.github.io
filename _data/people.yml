@@ -18,6 +18,13 @@ vcirik:
     image: /img/people/vcirik.jpg
     bio: "Ph.D. student"
 
+danlu:
+    display_name: "Danlu Chen"
+    webpage: "http://taineleau.me"
+    role: grad
+    image: /img/people/danlu.jpg
+    bio: "Ph.D. Student"
+
 kartikgo:
     display_name: "Kartik Goyal"
     role: grad
