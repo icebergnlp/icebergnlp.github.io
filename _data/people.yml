@@ -107,3 +107,9 @@ kishore:
     role: grad
     image: /img/people/kishore.jpg
     bio: "MS student"
+
+aashi:
+    display_name: "Aashi Jain"
+    role: grad
+    image: /img/people/aashi.jpg
+    bio: "M.S. student"
