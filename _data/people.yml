@@ -25,6 +25,18 @@ danlu:
     image: /img/people/danlu.jpg
     bio: "Ph.D. Student"
 
+ke:
+    display_name: "Ke Chen"
+    webpage: "https://www.knutchen.com/"
+    role: grad
+    bio: "Ph.D. Student"
+
+herman:
+    display_name: "Hao-Wen (Herman) Dong"
+    webpage: "https://salu133445.github.io/"
+    role: grad
+    bio: "Ph.D. Student"
+
 kartikgo:
     display_name: "Kartik Goyal"
     role: grad
@@ -46,25 +58,12 @@ jharsh:
     image: /img/people/jharsh.jpg
     bio: "Ph.D. student"
 
-kmaki:
-    display_name: "Keith Maki"
-    role: grad
-#   image: /img/people/kmaki.jpg
-    bio: "Ph.D. student"
-
 mryskina:
     display_name: "Maria Ryskina"
     webpage: "http://www.cs.cmu.edu/~mryskina/"
     role: grad
     image: /img/people/mryskina.jpg
     bio: "Ph.D. student"
-
-swu:
-    display_name: "Si Wu"
-    webpage: "http://siwu.io"
-    role: ugrad
-    image: /img/people/swu.jpg
-    bio: "Senior"
     
 dspokoyn:
     display_name: "Daniel Spokoyny"
@@ -79,21 +78,7 @@ asrivats:
     role: grad
     image: /img/people/asrivats.jpg
     bio: "Ph.D. student"
-
-jwieting:
-    display_name: John Wieting
-    webpage: "http://www.cs.cmu.edu/~jwieting/"
-    role: grad
-    image: /img/people/jwieting.jpg
-    bio: "Ph.D. student"
-
-zichaoy:
-    display_name: Zichao Yang
-    webpage: "http://www.cs.cmu.edu/~zichaoy/"
-    role: grad
-    image: /img/people/zichaoy.jpg
-    bio: "Ph.D. student"
-
+    
 nvog:
     display_name: "Nikolai Vogler"
     webpage: "http://convolutional.net"
@@ -101,15 +86,46 @@ nvog:
     image: /img/people/nvog.jpg
     bio: "Ph.D. student"
 
-kishore:
-    display_name: "Kishore P. V."
-    webpage: "https://kishorepv.github.io"
+jwieting:
+    display_name: John Wieting
+    webpage: "http://www.cs.cmu.edu/~jwieting/"
     role: grad
-    image: /img/people/kishore.jpg
-    bio: "MS student"
+    image: /img/people/jwieting.jpg
+    bio: "Ph.D. student"
+    
+# Past members (alphabetical order)
 
 aashi:
     display_name: "Aashi Jain"
-    role: grad
+    role: past
     image: /img/people/aashi.jpeg
     bio: "M.S. student"
+    
+kmaki:
+    display_name: "Keith Maki"
+    role: past
+#   image: /img/people/kmaki.jpg
+    bio: "Ph.D. student"
+
+kishore:
+    display_name: "Kishore P. V."
+    webpage: "https://kishorepv.github.io"
+    role: past
+    image: /img/people/kishore.jpg
+    bio: "M.S. student"
+    
+swu:
+    display_name: "Si Wu"
+    webpage: "http://siwu.io"
+    role: past
+    image: /img/people/swu.jpg
+    bio: "Undergraduate"
+
+zichaoy:
+    display_name: Zichao Yang
+    webpage: "http://www.cs.cmu.edu/~zichaoy/"
+    role: past
+    image: /img/people/zichaoy.jpg
+    bio: "Ph.D. student"
+
+  
