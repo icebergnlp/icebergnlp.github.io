@@ -33,9 +33,10 @@ ke:
     bio: "Ph.D. Student"
 
 herman:
-    display_name: "Hao-Wen (Herman) Dong"
+    display_name: "Hao-Wen Dong"
     webpage: "https://salu133445.github.io/"
     role: grad
+    image: /img/people/herman.jpg
     bio: "Ph.D. Student"
 
 kartikgo:
