@@ -23,21 +23,21 @@ danlu:
     webpage: "http://taineleau.me"
     role: grad
     image: /img/people/danlu.jpg
-    bio: "Ph.D. Student"
+    bio: "Ph.D. student"
 
 ke:
     display_name: "Ke Chen"
     webpage: "https://www.knutchen.com/"
     role: grad
     image: /img/people/kechen.jpg
-    bio: "Ph.D. Student"
+    bio: "Ph.D. student"
 
 herman:
     display_name: "Hao-Wen Dong"
     webpage: "https://salu133445.github.io/"
     role: grad
     image: /img/people/herman.jpg
-    bio: "Ph.D. Student"
+    bio: "Ph.D. student"
 
 kartikgo:
     display_name: "Kartik Goyal"
