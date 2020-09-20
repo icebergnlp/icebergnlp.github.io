@@ -99,6 +99,7 @@ jwieting:
 
 aashi:
     display_name: "Aashi Jain"
+    webpage: "https://a2jain.github.io/website/"
     role: past
     image: /img/people/aashi.jpeg
     bio: "M.S. '20, now at Google AI"
