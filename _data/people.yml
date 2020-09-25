@@ -74,11 +74,11 @@ dspokoyn:
     image: /img/people/dspokoyn.jpeg
     bio: "Ph.D. student"
 
-asrivats:
+nsrivats:
     display_name: Nikita Srivatsan
     webpage: "http://www.cs.cmu.edu/~asrivats/"
     role: grad
-    image: /img/people/asrivats.jpg
+    image: /img/people/nsrivats.jpg
     bio: "Ph.D. student"
     
 nvog:
