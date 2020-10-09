@@ -23,21 +23,21 @@ danlu:
     webpage: "http://taineleau.me"
     role: grad
     image: /img/people/danlu.jpg
-    bio: "Ph.D. Student"
+    bio: "Ph.D. student"
 
 ke:
     display_name: "Ke Chen"
     webpage: "https://www.knutchen.com/"
     role: grad
     image: /img/people/kechen.jpg
-    bio: "Ph.D. Student"
+    bio: "Ph.D. student"
 
 herman:
     display_name: "Hao-Wen Dong"
     webpage: "https://salu133445.github.io/"
     role: grad
     image: /img/people/herman.jpg
-    bio: "Ph.D. Student"
+    bio: "Ph.D. student"
 
 kartikgo:
     display_name: "Kartik Goyal"
@@ -74,11 +74,11 @@ dspokoyn:
     image: /img/people/dspokoyn.jpeg
     bio: "Ph.D. student"
 
-asrivats:
+nsrivats:
     display_name: Nikita Srivatsan
     webpage: "http://www.cs.cmu.edu/~asrivats/"
     role: grad
-    image: /img/people/asrivats.jpg
+    image: /img/people/nsrivats.jpg
     bio: "Ph.D. student"
     
 nvog:
@@ -99,9 +99,10 @@ jwieting:
 
 aashi:
     display_name: "Aashi Jain"
+    webpage: "https://a2jain.github.io/website/"
     role: past
     image: /img/people/aashi.jpeg
-    bio: "M.S. student"
+    bio: "M.S. '20, now at Google AI"
     
 kmaki:
     display_name: "Keith Maki"
@@ -114,20 +115,20 @@ kishore:
     webpage: "https://kishorepv.github.io"
     role: past
     image: /img/people/kishore.jpg
-    bio: "M.S. student"
+    bio: "M.S. '20, now at FAIR"
     
 swu:
     display_name: "Si Wu"
     webpage: "http://siwu.io"
     role: past
     image: /img/people/swu.jpg
-    bio: "Undergraduate"
+    bio: "B.S. '20, now at Northeastern University"
 
 zichaoy:
     display_name: Zichao Yang
     webpage: "http://www.cs.cmu.edu/~zichaoy/"
     role: past
     image: /img/people/zichaoy.jpg
-    bio: "Ph.D. student"
+    bio: "Ph.D. '18"
 
   
