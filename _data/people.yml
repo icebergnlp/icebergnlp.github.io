@@ -59,6 +59,12 @@ jharsh:
     role: grad
     image: /img/people/jharsh.jpg
     bio: "Ph.D. student"
+    
+fatemeh:
+    display_name: "Fatemehsadat Mireshghallah"
+    webpage: "https://cseweb.ucsd.edu/~fmireshg/"
+    role: grad
+    bio: "Ph.D. student"
 
 mryskina:
     display_name: "Maria Ryskina"
@@ -87,13 +93,6 @@ nvog:
     role: grad
     image: /img/people/nvog.jpg
     bio: "Ph.D. student"
-
-jwieting:
-    display_name: John Wieting
-    webpage: "http://www.cs.cmu.edu/~jwieting/"
-    role: grad
-    image: /img/people/jwieting.jpg
-    bio: "Ph.D. student"
     
 # Past members (alphabetical order)
 
@@ -117,6 +116,13 @@ kishore:
     image: /img/people/kishore.jpg
     bio: "M.S. '20, now at FAIR"
     
+jwieting:
+    display_name: John Wieting
+    webpage: "http://www.cs.cmu.edu/~jwieting/"
+    role: grad
+    image: /img/people/jwieting.jpg
+    bio: "Ph.D. '20, now at Google AI"
+
 swu:
     display_name: "Si Wu"
     webpage: "http://siwu.io"
@@ -130,5 +136,3 @@ zichaoy:
     role: past
     image: /img/people/zichaoy.jpg
     bio: "Ph.D. '18"
-
-  
