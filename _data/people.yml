@@ -64,6 +64,7 @@ fatemeh:
     display_name: "Fatemehsadat Mireshghallah"
     webpage: "https://cseweb.ucsd.edu/~fmireshg/"
     role: grad
+    image: /img/people/fatemeh.jpg
     bio: "Ph.D. student"
 
 mryskina:
@@ -119,7 +120,7 @@ kishore:
 jwieting:
     display_name: John Wieting
     webpage: "http://www.cs.cmu.edu/~jwieting/"
-    role: grad
+    role: past
     image: /img/people/jwieting.jpg
     bio: "Ph.D. '20, now at Google AI"
 
