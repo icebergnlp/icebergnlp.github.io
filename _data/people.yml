@@ -105,10 +105,11 @@ aashi:
     bio: "M.S. '20, now at Google AI"
     
 kmaki:
-    display_name: "Keith Maki"
+    display_name: "K. Maki"
+    webpage: "https://scholar.google.com/citations?user=4MwHtsUAAAAJ&hl=en&oi=ao"
     role: past
 #   image: /img/people/kmaki.jpg
-    bio: "Ph.D. student"
+    bio: "Ph.D. program"
 
 kishore:
     display_name: "Kishore P. V."
