@@ -52,6 +52,13 @@ junxian1:
     webpage: "https://jxhe.github.io/"
     image: /img/people/junxian1.jpg
     bio: "Ph.D. student"
+    
+kunal:
+    display_name: "Kunal Jain"
+    webpage: "https://sites.google.com/view/kunal-jain/"
+    role: grad
+    image: /img/people/kunal.jpg
+    bio: "M.S. student"
 
 jharsh:
     display_name: "Harsh Jhamtani"
