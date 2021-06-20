@@ -52,13 +52,6 @@ junxian1:
     webpage: "https://jxhe.github.io/"
     image: /img/people/junxian1.jpg
     bio: "Ph.D. student"
-    
-kunal:
-    display_name: "Kunal Jain"
-    webpage: "https://sites.google.com/view/kunal-jain/"
-    role: grad
-    image: /img/people/kunal.jpg
-    bio: "M.S. student"
 
 jharsh:
     display_name: "Harsh Jhamtani"
@@ -109,35 +102,42 @@ aashi:
     webpage: "https://aashi7jain.github.io/"
     role: past
     image: /img/people/aashi.jpeg
-    bio: "M.S. '20, now at Google AI"
+    bio: "M.S. '20 ➝ Google AI"
     
 kmaki:
     display_name: "K. Maki"
     webpage: "https://scholar.google.com/citations?user=4MwHtsUAAAAJ&hl=en&oi=ao"
     role: past
 #   image: /img/people/kmaki.jpg
-    bio: "Ph.D. program, now at Verusen"
+    bio: "Ph.D. program ➝ Verusen"
 
 kishore:
     display_name: "Kishore P. V."
     webpage: "https://kishorepv.github.io"
     role: past
     image: /img/people/kishore.jpg
-    bio: "M.S. '20, now at FAIR"
+    bio: "M.S. '20 ➝ FAIR"
     
+kunal:
+    display_name: "Kunal Jain"
+    webpage: "https://sites.google.com/view/kunal-jain/"
+    role: grad
+    image: /img/people/kunal.jpg
+    bio: "M.S. '21 ➝ Apple"  
+  
 jwieting:
     display_name: John Wieting
     webpage: "http://www.cs.cmu.edu/~jwieting/"
     role: past
     image: /img/people/jwieting.jpg
-    bio: "Ph.D. '20, now at Google AI"
+    bio: "Ph.D. '20 ➝ Google AI"
 
 swu:
     display_name: "Si Wu"
     webpage: "http://siwu.io"
     role: past
     image: /img/people/swu.jpg
-    bio: "B.S. '20, now at Northeastern University"
+    bio: "B.S. '20 ➝ Northeastern University"
 
 zichaoy:
     display_name: Zichao Yang
