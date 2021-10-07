@@ -32,18 +32,18 @@ ke:
     image: /img/people/kechen.jpg
     bio: "Ph.D. student"
 
-brendan:
-    display_name: "Brendan Duncan"
-    webpage: "http://www.brendanduncan.com/"
-    role: grad
-    image: /img/people/brendan.png
-    bio: "Ph.D. student"
-
 herman:
     display_name: "Hao-Wen Dong"
     webpage: "https://salu133445.github.io/"
     role: grad
     image: /img/people/herman.jpg
+    bio: "Ph.D. student"
+
+brendan:
+    display_name: "Brendan Duncan"
+    webpage: "http://www.brendanduncan.com/"
+    role: grad
+    image: /img/people/brendan.png
     bio: "Ph.D. student"
 
 junxian1:
