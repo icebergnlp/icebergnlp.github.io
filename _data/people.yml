@@ -34,6 +34,13 @@ ke:
 
 herman:
     display_name: "Hao-Wen Dong"
+    webpage: "http://www.brendanduncan.com/"
+    role: grad
+    image: /img/people/brendan.png
+    bio: "Ph.D. student"
+
+brendan:
+    display_name: "Brendan Duncan"
     webpage: "https://salu133445.github.io/"
     role: grad
     image: /img/people/herman.jpg
@@ -52,6 +59,13 @@ jharsh:
     role: grad
     image: /img/people/jharsh.jpg
     bio: "Ph.D. student"
+
+tanmay:
+    display_name: "Tanmay Laud"
+    webpage: "https://www.linkedin.com/in/tanmaylaud"
+    role: grad
+    image: /img/people/tanmay.jpeg
+    bio: "M.S. student"
 
 ivan:
     display_name: "Ivan Lee"
