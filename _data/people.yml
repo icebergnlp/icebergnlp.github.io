@@ -52,6 +52,12 @@ jharsh:
     role: grad
     image: /img/people/jharsh.jpg
     bio: "Ph.D. student"
+
+ivan:
+    display_name: "Ivan Lee"
+    role: grad
+    image: /img/people/ivan.jfif
+    bio: "M.S. student"
     
 fatemeh:
     display_name: "Fatemehsadat Mireshghallah"
