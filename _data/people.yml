@@ -53,13 +53,6 @@ junxian1:
     image: /img/people/junxian1.jpg
     bio: "Ph.D. student"
 
-jharsh:
-    display_name: "Harsh Jhamtani"
-    webpage: "https://sites.google.com/view/harshjhamtani/home"
-    role: grad
-    image: /img/people/jharsh.jpg
-    bio: "Ph.D. student"
-
 tanmay:
     display_name: "Tanmay Laud"
     webpage: "https://www.linkedin.com/in/tanmaylaud"
@@ -116,6 +109,13 @@ aashi:
     role: past
     image: /img/people/aashi.jpeg
     bio: "M.S. '20 ➝ Google AI"
+
+jharsh:
+    display_name: "Harsh Jhamtani"
+    webpage: "https://sites.google.com/view/harshjhamtani/home"
+    role: past
+    image: /img/people/jharsh.jpg
+    bio: "Ph.D. '21 ➝ Microsoft Semantic Machines"
     
 kmaki:
     display_name: "K. Maki"
