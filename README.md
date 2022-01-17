@@ -1,3 +1,25 @@
+Instructions for updating the publication page
+--------
+
+You'll need [Jekyll][] and [bibble][] (`pip install bibble`).
+
+To make changes to the [publication page](https://icebergnlp.github.io/publications.html):
+ 1. Clone the repository.
+ 2. Modify [`bib/berglab-pubs.bib`](bib/berglab-pubs.bib) as needed.
+ 3. Running `make` from the repo's main directory will regenerate the [`_includes/pubs.html`](_includes/pubs.html) page.
+ 4. To serve the website locally on your machine, run `make serve`. You'll be able to view the local version at `http://127.0.0.1:5002`.
+
+Comments on formatting:
+ * Papers are sorted by the `month` field in the BibTeX entries. If no month is listed (or the `month` field is not parsed correctly), the paper will appear at the end of the list for the corresponding year. So far we've been adding the month manually to all papers except preprints.
+ * For papers in the [ACL Anthology](https://aclanthology.org/), best practice is to copy the BibTeX entries directly from the Anthology ([like this](https://twitter.com/aclanthology/status/1409538891108003840)).
+ * Equal authorship stars need to be marked directly in the `author` field, e.g. `author = "Ryskina*, Maria  and Berg-Kirkpatrick*, Taylor"`
+ * Remove TeX formatting like `{}` or `^` from titles. Write special characters and diacritics directly in the BibTeX entry (e.g. write `ö` instead of `\"{o}`).
+ * The venue name is displayed directly from the `booktitle` or `journal` field, so modify these fields accordingly in the Bib file. We've been shortening names and listing abbreviations for all conferences and workshops.
+ * Make sure you add the link to the paper (if available) as the `url` field in the BibTeX entry.
+
+For any questions, please contact [Maria](https://github.com/ryskina)
+
+
 Research Group Web Site Template
 ================================
 
