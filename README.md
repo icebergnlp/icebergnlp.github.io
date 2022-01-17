@@ -8,6 +8,7 @@ To make changes to the [publication page](https://icebergnlp.github.io/publicati
  2. Modify [`bib/berglab-pubs.bib`](bib/berglab-pubs.bib) as needed.
  3. Running `make` from the repo's main directory will regenerate the [`_includes/pubs.html`](_includes/pubs.html) page.
  4. To serve the website locally on your machine, run `make serve`. You'll be able to view the local version at `http://127.0.0.1:5002`.
+ 5. To deploy, commit and push your changes to the `master` branch.
 
 Comments on formatting:
  * Papers are sorted by the `month` field in the BibTeX entries. If no month is listed (or the `month` field is not parsed correctly), the paper will appear at the end of the list for the corresponding year. So far we've been adding the month manually to all papers except preprints.
@@ -17,7 +18,7 @@ Comments on formatting:
  * The venue name is displayed directly from the `booktitle` or `journal` field, so modify these fields accordingly in the Bib file. We've been shortening names and listing abbreviations for all conferences and workshops.
  * Make sure you add the link to the paper (if available) as the `url` field in the BibTeX entry.
 
-For any questions, please contact [Maria](https://github.com/ryskina)
+For any questions, please contact [Maria](https://github.com/ryskina).
 
 
 Research Group Web Site Template
