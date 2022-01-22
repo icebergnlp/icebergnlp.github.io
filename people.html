@@ -4,10 +4,9 @@ title: People
 
 picture-role-groups:
 - {roles: [faculty, postdoc, staff], width: 4}
-- {roles: [grad], width: 8}
+- {roles: [grad, ugrad], width: 8}
+- {roles: [past], width: 8}
 
-no-picture-role-groups:
-- {roles: [past], width: 10}
 ---
 
 <section class="people row justify-content-between">
@@ -20,12 +19,12 @@ no-picture-role-groups:
     {% endfor %}
 </section>
 
-<section class="people row justify-content-between">
+<!-- <section class="people row justify-content-between">
     {% for role-group in page.no-picture-role-groups %}
         <div class="col-md-{{ role-group.width }}">
             {% for role in role-group.roles %}
-                {% include role-people.html role=role image=true %}
+                {% include role-people.html role=role %}
             {% endfor %}
         </div>
     {% endfor %}
-</section>
+</section> -->

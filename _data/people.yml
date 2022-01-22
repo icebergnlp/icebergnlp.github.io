@@ -101,6 +101,15 @@ nvog:
     image: /img/people/nvog.jpg
     bio: "Ph.D. student"
     
+# Undergrads (alphabetical order)
+
+judy:
+    display_name: "Zhao Jin"
+    webpage: "http://linkedin.com/in/zhao-jin-310831170"
+    role: ugrad
+    image: /img/people/judy.jpg
+    bio: "Undergraduate student"
+
 # Past members (alphabetical order)
 
 aashi:
