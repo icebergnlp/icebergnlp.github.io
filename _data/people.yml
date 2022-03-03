@@ -20,7 +20,7 @@ vcirik:
 
 danlu:
     display_name: "Danlu Chen"
-    webpage: "http://taineleau.me"
+    webpage: "https://taineleau.cc/"
     role: grad
     image: /img/people/danlu.jpg
     bio: "Ph.D. student"
@@ -103,7 +103,7 @@ nsrivats:
     
 nvog:
     display_name: "Nikolai Vogler"
-    webpage: "http://convolutional.net"
+    webpage: "https://nvog.github.io/"
     role: grad
     image: /img/people/nvog.jpg
     bio: "Ph.D. student"
