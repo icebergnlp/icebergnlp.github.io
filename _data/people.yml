@@ -11,13 +11,6 @@ tberg:
 # Grads
 # Alphabetical order
 
-vcirik:
-    display_name: "Volkan Cirik"
-    webpage: "https://www.cs.cmu.edu/~vcirik/"
-    role: grad
-    image: /img/people/vcirik.jpg
-    bio: "Ph.D. student"
-
 danlu:
     display_name: "Danlu Chen"
     webpage: "https://taineleau.cc/"
@@ -118,6 +111,13 @@ judy:
     bio: "Senior"
 
 # Past members (reverse chronological order)
+
+vcirik:
+    display_name: "Volkan Cirik"
+    webpage: "https://www.cs.cmu.edu/~vcirik/"
+    role: past
+    image: /img/people/vcirik.jpg
+    bio: "Ph.D. '22 ➝ ASAPP"
 
 jharsh:
     display_name: "Harsh Jhamtani"
