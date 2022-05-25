@@ -46,13 +46,6 @@ sachinda:
     image: /img/people/sachinda.png
     bio: "M.S. student"
 
-junxian1:
-    display_name: "Junxian He"
-    role: grad
-    webpage: "https://jxhe.github.io/"
-    image: /img/people/junxian1.jpg
-    bio: "Ph.D. student"
-
 tanmay:
     display_name: "Tanmay Laud"
     webpage: "https://www.linkedin.com/in/tanmaylaud"
@@ -112,6 +105,13 @@ judy:
 
 # Past members (reverse chronological order)
 
+junxian1:
+    display_name: "Junxian He"
+    role: past
+    webpage: "https://jxhe.github.io/"
+    image: /img/people/junxian1.jpg
+    bio: "Ph.D. '22 ➝ Shanghai Jiao Tong University"
+
 vcirik:
     display_name: "Volkan Cirik"
     webpage: "https://www.cs.cmu.edu/~vcirik/"
@@ -159,7 +159,7 @@ kishore:
     webpage: "https://kishorepv.github.io"
     role: past
     image: /img/people/kishore.jpg
-    bio: "M.S. '20 ➝ FAIR"
+    bio: "M.S. '20 ➝ FAIR (Meta AI)"
 
 swu:
     display_name: "Si Wu"
