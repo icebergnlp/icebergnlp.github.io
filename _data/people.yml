@@ -96,14 +96,14 @@ nvog:
     
 # Undergrads (alphabetical order)
 
+# Past members (reverse chronological order)
+
 judy:
     display_name: "Zhao Jin"
     webpage: "http://linkedin.com/in/zhao-jin-310831170"
-    role: ugrad
+    role: past
     image: /img/people/judy.jpg
-    bio: "Senior"
-
-# Past members (reverse chronological order)
+    bio: "B.S. '22 ➝ Carnegie Mellon University"
 
 junxian1:
     display_name: "Junxian He"
@@ -131,7 +131,7 @@ kartikgo:
     role: past
     webpage: "http://www.cs.cmu.edu/~kartikgo"
 #   image: /img/people/kartikgo.jpg
-    bio: "Ph.D. '21 ➝ TTIC"
+    bio: "Ph.D. '21 ➝ Toyota Technological Institute at Chicago"
     
 kunal:
     display_name: "Kunal Jain"
