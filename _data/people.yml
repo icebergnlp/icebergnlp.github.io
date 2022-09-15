@@ -65,13 +65,6 @@ fatemeh:
     role: grad
     image: /img/people/fatemeh.jpg
     bio: "Ph.D. student"
-
-mryskina:
-    display_name: "Maria Ryskina"
-    webpage: "http://www.cs.cmu.edu/~mryskina/"
-    role: grad
-    image: /img/people/mryskina.jpg
-    bio: "Ph.D. student"
     
 dspokoyn:
     display_name: "Daniel Spokoyny"
@@ -97,6 +90,13 @@ nvog:
 # Undergrads (alphabetical order)
 
 # Past members (reverse chronological order)
+
+mryskina:
+    display_name: "Maria Ryskina"
+    webpage: "http://www.cs.cmu.edu/~mryskina/"
+    role: past
+    image: /img/people/mryskina.jpg
+    bio: "Ph.D. '22 ➝ MIT"
 
 judy:
     display_name: "Zhao Jin"
