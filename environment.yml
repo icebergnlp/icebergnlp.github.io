@@ -1,0 +1,10 @@
+name: berglab
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - ruby=2.6.6
+  - compilers=1.4.2
+  - pip:
+    - bibble
