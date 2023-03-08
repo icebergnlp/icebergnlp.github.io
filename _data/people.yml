@@ -6,7 +6,7 @@ tberg:
     webpage: "https://cseweb.ucsd.edu/~tberg/"
     role: faculty
     image: /img/people/tberg.jpg
-    bio: "Assistant Professor"
+    bio: "Professor"
 
 # Grads
 # Alphabetical order
@@ -58,14 +58,14 @@ ivan:
     role: grad
     image: /img/people/ivan.jfif
     bio: "M.S. student"
-    
+
 fatemeh:
     display_name: "Fatemehsadat Mireshghallah"
     webpage: "https://cseweb.ucsd.edu/~fmireshg/"
     role: grad
     image: /img/people/fatemeh.jpg
     bio: "Ph.D. student"
-    
+
 dspokoyn:
     display_name: "Daniel Spokoyny"
     role: grad
@@ -79,14 +79,14 @@ nsrivats:
     role: grad
     image: /img/people/nsrivats.jpg
     bio: "Ph.D. student"
-    
+
 nvog:
     display_name: "Nikolai Vogler"
     webpage: "https://nvog.github.io/"
     role: grad
     image: /img/people/nvog.jpg
     bio: "Ph.D. student"
-    
+
 # Undergrads (alphabetical order)
 
 # Past members (reverse chronological order)
@@ -132,13 +132,13 @@ kartikgo:
     webpage: "http://www.cs.cmu.edu/~kartikgo"
 #   image: /img/people/kartikgo.jpg
     bio: "Ph.D. '21 ➝ Toyota Technological Institute at Chicago"
-    
+
 kunal:
     display_name: "Kunal Jain"
     webpage: "https://sites.google.com/view/kunal-jain/"
     role: past
     image: /img/people/kunal.jpg
-    bio: "M.S. '21 ➝ Apple"  
+    bio: "M.S. '21 ➝ Apple"
 
 jwieting:
     display_name: John Wieting
