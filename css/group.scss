@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "fontawesome.css";
+
 $gray: #999;
 $light-gray: #EEE;
 $link-color: #428bca;
@@ -89,7 +91,7 @@ ul.news {
 }
 
 @media (min-width: 768px) {
-    .role.grad      { column-count: 2 }
+    .role.grad      { column-count: 3 }
     .project-people { column-count: 3 }
     .card-columns   { column-count: 3 }
 }
