@@ -39,13 +39,6 @@ brendan:
     image: /img/people/brendan.png
     bio: Ph.D. Student
 
-sachinda:
-    display_name: Sachinda Edirisooriya
-    webpage: https://sachindae.github.io/
-    role: grad
-    image: /img/people/sachinda.png
-    bio: M.S. Student
-
 tanmay:
     display_name: Tanmay Laud
     webpage: https://www.linkedin.com/in/tanmaylaud
@@ -91,6 +84,13 @@ nvog:
 # Undergrads (alphabetical order)
 
 # Past members (reverse chronological order)
+
+sachinda:
+    display_name: Sachinda Edirisooriya
+    webpage: https://sachindae.github.io/
+    role: past
+    image: /img/people/sachinda.png
+    bio: M.S. 2022
 
 mryskina:
     display_name: Maria Ryskina
