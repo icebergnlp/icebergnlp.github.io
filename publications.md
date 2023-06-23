@@ -3,6 +3,10 @@ layout: default
 title: Publications
 ---
 
+Please see [Google Scholar](https://scholar.google.com/citations?user=mN6_BKAAAAAJ) for the most updated publication list.
+
+---
+
 ## Preprints
 
 __CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models__\\
