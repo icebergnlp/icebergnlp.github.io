@@ -3,14 +3,56 @@ layout: default
 title: Publications
 ---
 
+## Preprints
+
+__CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models__\\
+Hao-Wen Dong, Xiaoyu Liu, Jordi Pons, Gautam Bhattacharya, Santiago Pascual, Joan Serrà, Taylor Berg-Kirkpatrick, and Julian McAuley\\
+_arXiv preprint arXiv:2306.09635_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2306.09635.pdf" %}&emsp;
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://salu133445.github.io/clipsonic/" %}
+
+__Membership Inference Attacks against Language Models via Neighbourhood Comparison__\\
+Justus Mattern, Fatemehsadat Mireshghallah, Zhijing Jin, Bernhard Schölkopf, Mrinmaya Sachan, and Taylor Berg-Kirkpatrick\\
+_arXiv preprint arXiv:2305.18462_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2305.18462.pdf" %}
+
+__Text Conditional Alt-Text Generation for Twitter Images__\\
+Nikita Srivatsan, Sofia Samaniego, Omar Florez, and Taylor Berg-Kirkpatrick\\
+_arXiv preprint arXiv:2305.14779_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2305.14779.pdf" %}
+
+__Smaller Language Models are Better Black-box Machine-Generated Text Detectors__\\
+Fatemehsadat Mireshghallah, Justus Mattern, Sicun Gao, Reza Shokri, and Taylor Berg-Kirkpatrick\\
+_arXiv preprint arXiv:2305.09859_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2305.09859.pdf" %}
+
+__Universal Source Separation with Weakly Labelled Data__\\
+Qiuqiang Kong, Ke Chen, Haohe Liu, Xingjian Du, Taylor Berg-Kirkpatrick, Shlomo Dubnov, and Mark D. Plumbley\\
+_arXiv preprint arXiv:2305.07447_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2305.07447.pdf" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/bytedance/uss" %}
+
+__ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English__\\
+Tanmay Laud\*, Daniel Spokoyny\*, Tom Corringham, and Taylor Berg-Kirkpatrick\\
+_arXiv preprint arXiv:2301.04253_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2301.04253.pdf" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/climabench/climabench" %}
+
+---
+
 ## 2023
+
+__Who Rpinted Shakespeare’s Fourth Folio?__\\
+Christopher N Warren, Samuel V Lemley, DJ Schuldt, Elizabeth Dieterich, Laura S DeLuca, Max G’Sell, Taylor Berg-Kirkpatrick, Kari Thomas, Kartik Goyal, and Nikolai Vogler\\
+Shakespeare Quarterly, quad021\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://doi.org/10.1093/sq/quad021" %}
 
 __Multitrack Music Transformer: Learning Long-Term Dependencies in Music with Diverse Instruments__\\
 Hao-Wen Dong, Ke Chen, Shlomo Dubnov, Julian McAuley, and Taylor Berg-Kirkpatrick\\
 _IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2207.06983.pdf" %}&emsp;
-{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/salu133445/mmt" %}&emsp;
-{% include icon_link.html text="demo" icon=site.icons.demo href="https://salu133445.github.io/mmt/" %}
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://salu133445.github.io/mmt/" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/salu133445/mmt" %}
 
 __Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation__\\
 Yusong Wu\*, Ke Chen\*, Tianyu Zhang, Yuchen Hui, Taylor Berg-Kirkpatrick, and Shlomo Dubnov\\
@@ -22,13 +64,18 @@ __CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos__\
 Hao-Wen Dong, Naoya Takahashi, Yuki Mitsufuji, Julian McAuley, and Taylor Berg-Kirkpatrick\\
 _International Conference on Learning Representations (ICLR)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2212.07065.pdf" %}&emsp;
-{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/sony/CLIPSep" %}&emsp;
-{% include icon_link.html text="demo" icon=site.icons.demo href="https://sony.github.io/CLIPSep/" %}
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://sony.github.io/CLIPSep/" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/sony/CLIPSep" %}
 
-__ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English__\\
-Tanmay Laud\*, Daniel Spokoyny\*, Tom Corringham, and Taylor Berg-Kirkpatrick\\
-_arXiv preprint arXiv:2301.04253_\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2301.04253.pdf" %}
+__Jointly modeling products and resource pages for task-oriented recommendation__\\
+Brendan Duncan, Surya Kallumadi, Taylor Berg-Kirkpatrick, and Julian McAuley\\
+_World Wide Web (WWW), Industry Track_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://dl.acm.org/doi/pdf/10.1145/3543873.3584642" %}
+
+__Contrastive Attention Networks for Attribution of Early Modern Print__\\
+Nikolai Vogler, Kartik Goyal, Kishore PV Reddy, Elizaveta Pertseva, Samuel V. Lemley, Christopher N. Warren, Max G'Sell, and Taylor Berg-Kirkpatrick\\
+_AAAI Conference on Artificial Intelligence (AAAI)_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2306.07998.pdf" %}
 
 ---
 
@@ -68,8 +115,8 @@ __Improving Choral Music Separation through Expressive Synthesized Data from Sam
 Ke Chen, Hao-Wen Dong, Yi Luo, Julian McAuley, Taylor Berg-Kirkpatrick, Miller Puckette, and Shlomo Dubnov\\
 _International Society for Music Information Retrieval Conference (ISMIR)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2209.02871.pdf" %}&emsp;
-{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/RetroCirce/Choral_Music_Separation" %}&emsp;
-{% include icon_link.html text="demo" icon=site.icons.demo href="https://retrocirce.github.io/cms_demo/" %}
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://retrocirce.github.io/cms_demo/" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/RetroCirce/Choral_Music_Separation" %}
 
 __Non-Parametric Temporal Adaptation for Social Media Topic Classification__\\
 Fatemehsadat Mireshghallah, Nikolai Vogler, Junxian He, Omar Florez, Ahmed El-Kishky, and Taylor Berg-Kirkpatrick\\
@@ -183,8 +230,8 @@ __Towards Automatic Instrumentation by Learning to Separate Parts in Symbolic Mu
 Hao-Wen Dong, Chris Donahue, Taylor Berg-Kirkpatrick, and Julian McAuley\\
 _International Society for Music Information Retrieval Conference (ISMIR)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2107.05916.pdf" %}&emsp;
-{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/salu133445/arranger" %}&emsp;
-{% include icon_link.html text="demo" icon=site.icons.demo href="https://salu133445.github.io/arranger/" %}
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://salu133445.github.io/arranger/" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/salu133445/arranger" %}
 
 __Neural Representation Learning for Scribal Hands of Linear B__\\
 Nikita Srivatsan, Jason Vega, Christina Skelton, and Taylor Berg-Kirkpatrick\\
@@ -259,8 +306,8 @@ __MusPy: A Toolkit for Symbolic Music Generation__\\
 Hao-Wen Dong, Ke Chen, Julian McAuley, and Taylor Berg-Kirkpatrick\\
 _International Society for Music Information Retrieval Conference (ISMIR)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2008.01951.pdf" %}&emsp;
-{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/salu133445/muspy" %}&emsp;
-{% include icon_link.html text="demo" icon=site.icons.demo href="https://salu133445.github.io/muspy/" %}
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://salu133445.github.io/muspy/" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/salu133445/muspy" %}
 
 __Music SketchNet: Controllable Music Generation via Factorized Representations of Pitch and Rhythm__\\
 Ke Chen, Cheng-i Wang, Taylor Berg-Kirkpatrick, and Shlomo Dubnov\\
