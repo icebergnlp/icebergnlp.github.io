@@ -111,7 +111,7 @@ junxian1:
     role: past
     webpage: https://jxhe.github.io/
     image: /img/people/junxian1.jpg
-    bio: PhD 2022 ➝ Shanghai Jiao Tong University
+    bio: PhD 2022 ➝ Hong Kong University of Science and Technology
 
 vcirik:
     display_name: Volkan Cirik
@@ -131,7 +131,7 @@ kartikgo:
     display_name: Kartik Goyal
     role: past
     webpage: http://www.cs.cmu.edu/~kartikgo
-    bio: PhD 2021 ➝ Toyota Technological Institute at Chicago
+    bio: PhD 2021 ➝ Georgia Tech
 
 kunal:
     display_name: Kunal Jain
