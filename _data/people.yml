@@ -85,13 +85,6 @@ tanmay:
     image: /img/people/tanmay.jpeg
     bio: MS 2023, now at Megagon Labs
 
-sachinda:
-    display_name: Sachinda Edirisooriya
-    webpage: https://sachindae.github.io/
-    role: past
-    image: /img/people/sachinda.png
-    bio: MS 2022, now at SpaceX
-
 mryskina:
     display_name: Maria Ryskina
     webpage: http://www.cs.cmu.edu/~mryskina/
@@ -99,14 +92,7 @@ mryskina:
     image: /img/people/mryskina.jpg
     bio: PhD 2022, now at Massachusetts Institute of Technology
 
-judy:
-    display_name: Zhao Jin
-    webpage: http://linkedin.com/in/zhao-jin-310831170
-    role: past
-    image: /img/people/judy.jpg
-    bio: BS 2022, now at Carnegie Mellon University
-
-junxian1:
+junxian:
     display_name: Junxian He
     role: past
     webpage: https://jxhe.github.io/
@@ -119,6 +105,20 @@ vcirik:
     role: past
     image: /img/people/vcirik.jpg
     bio: PhD 2022, now at ASAPP
+
+sachinda:
+    display_name: Sachinda Edirisooriya
+    webpage: https://sachindae.github.io/
+    role: past
+    image: /img/people/sachinda.png
+    bio: MS 2022, now at SpaceX
+
+judy:
+    display_name: Zhao Jin
+    webpage: http://linkedin.com/in/zhao-jin-310831170
+    role: past
+    image: /img/people/judy.jpg
+    bio: BS 2022, now at Carnegie Mellon University
 
 jharsh:
     display_name: Harsh Jhamtani
@@ -168,15 +168,15 @@ swu:
     image: /img/people/swu.jpg
     bio: BS 2020, now at Northeastern University
 
-kmaki:
-    display_name: Korte Maki
-    webpage: https://scholar.google.com/citations?user=4MwHtsUAAAAJ&hl=en&oi=ao
-    role: past
-    bio: MS 2016, now at Verusen
-
 zichaoy:
     display_name: Zichao Yang
     webpage: http://www.cs.cmu.edu/~zichaoy/
     role: past
     image: /img/people/zichaoy.jpg
     bio: PhD 2018
+
+kmaki:
+    display_name: Korte Maki
+    webpage: https://scholar.google.com/citations?user=4MwHtsUAAAAJ&hl=en&oi=ao
+    role: past
+    bio: MS 2016, now at Verusen
