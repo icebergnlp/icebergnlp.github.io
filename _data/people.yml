@@ -39,6 +39,13 @@ brendan:
     image: /img/people/brendan.png
     bio: PhD Student
 
+yasaman:
+    display_name: Yasaman Jafari
+    webpage: https://yasamanjafari.com/
+    role: grad
+    image: /img/people/yasaman.jpg
+    bio: PhD Student
+
 ivan:
     display_name: Ivan Lee
     webpage: https://ivnle.github.io/
