@@ -7,13 +7,31 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=mN6_BKAAAA
 
 ---
 
-## Preprints
+## 2023
 
 __CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models__\\
 Hao-Wen Dong, Xiaoyu Liu, Jordi Pons, Gautam Bhattacharya, Santiago Pascual, Joan Serrà, Taylor Berg-Kirkpatrick, and Julian McAuley\\
 _arXiv preprint arXiv:2306.09635_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2306.09635.pdf" %}&emsp;
 {% include icon_link.html text="demo" icon=site.icons.demo href="https://salu133445.github.io/clipsonic/" %}
+
+__Who Rpinted Shakespeare’s Fourth Folio?__\\
+Christopher N Warren, Samuel V Lemley, DJ Schuldt, Elizabeth Dieterich, Laura S DeLuca, Max G’Sell, Taylor Berg-Kirkpatrick, Kari Thomas, Kartik Goyal, and Nikolai Vogler\\
+Shakespeare Quarterly, quad021\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://doi.org/10.1093/sq/quad021" %}
+
+__Multitrack Music Transformer: Learning Long-Term Dependencies in Music with Diverse Instruments__\\
+Hao-Wen Dong, Ke Chen, Shlomo Dubnov, Julian McAuley, and Taylor Berg-Kirkpatrick\\
+_IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2207.06983.pdf" %}&emsp;
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://salu133445.github.io/mmt/" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/salu133445/mmt" %}
+
+__Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation__\\
+Yusong Wu\*, Ke Chen\*, Tianyu Zhang, Yuchen Hui, Taylor Berg-Kirkpatrick, and Shlomo Dubnov\\
+_IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2211.06687.pdf" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/LAION-AI/CLAP" %}
 
 __Membership Inference Attacks against Language Models via Neighbourhood Comparison__\\
 Justus Mattern, Fatemehsadat Mireshghallah, Zhijing Jin, Bernhard Schölkopf, Mrinmaya Sachan, and Taylor Berg-Kirkpatrick\\
@@ -36,34 +54,6 @@ _arXiv preprint arXiv:2305.07447_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2305.07447.pdf" %}&emsp;
 {% include icon_link.html text="code" icon=site.icons.code href="https://github.com/bytedance/uss" %}
 
-__ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English__\\
-Tanmay Laud\*, Daniel Spokoyny\*, Tom Corringham, and Taylor Berg-Kirkpatrick\\
-_arXiv preprint arXiv:2301.04253_\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2301.04253.pdf" %}&emsp;
-{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/climabench/climabench" %}
-
----
-
-## 2023
-
-__Who Rpinted Shakespeare’s Fourth Folio?__\\
-Christopher N Warren, Samuel V Lemley, DJ Schuldt, Elizabeth Dieterich, Laura S DeLuca, Max G’Sell, Taylor Berg-Kirkpatrick, Kari Thomas, Kartik Goyal, and Nikolai Vogler\\
-Shakespeare Quarterly, quad021\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://doi.org/10.1093/sq/quad021" %}
-
-__Multitrack Music Transformer: Learning Long-Term Dependencies in Music with Diverse Instruments__\\
-Hao-Wen Dong, Ke Chen, Shlomo Dubnov, Julian McAuley, and Taylor Berg-Kirkpatrick\\
-_IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2207.06983.pdf" %}&emsp;
-{% include icon_link.html text="demo" icon=site.icons.demo href="https://salu133445.github.io/mmt/" %}&emsp;
-{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/salu133445/mmt" %}
-
-__Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation__\\
-Yusong Wu\*, Ke Chen\*, Tianyu Zhang, Yuchen Hui, Taylor Berg-Kirkpatrick, and Shlomo Dubnov\\
-_IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2211.06687.pdf" %}&emsp;
-{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/LAION-AI/CLAP" %}
-
 __CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos__\\
 Hao-Wen Dong, Naoya Takahashi, Yuki Mitsufuji, Julian McAuley, and Taylor Berg-Kirkpatrick\\
 _International Conference on Learning Representations (ICLR)_\\
@@ -80,6 +70,12 @@ __Contrastive Attention Networks for Attribution of Early Modern Print__\\
 Nikolai Vogler, Kartik Goyal, Kishore PV Reddy, Elizaveta Pertseva, Samuel V. Lemley, Christopher N. Warren, Max G'Sell, and Taylor Berg-Kirkpatrick\\
 _AAAI Conference on Artificial Intelligence (AAAI)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2306.07998.pdf" %}
+
+__ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English__\\
+Tanmay Laud\*, Daniel Spokoyny\*, Tom Corringham, and Taylor Berg-Kirkpatrick\\
+_arXiv preprint arXiv:2301.04253_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2301.04253.pdf" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/climabench/climabench" %}
 
 ---
 
