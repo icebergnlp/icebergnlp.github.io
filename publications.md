@@ -11,7 +11,7 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=mN6_BKAAAA
 
 __CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models__\\
 Hao-Wen Dong, Xiaoyu Liu, Jordi Pons, Gautam Bhattacharya, Santiago Pascual, Joan Serrà, Taylor Berg-Kirkpatrick, and Julian McAuley\\
-_arXiv preprint arXiv:2306.09635_\\
+_IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2306.09635.pdf" %}&emsp;
 {% include icon_link.html text="demo" icon=site.icons.demo href="https://salu133445.github.io/clipsonic/" %}
 
@@ -35,7 +35,7 @@ _IEEE International Conference on Acoustics, Speech, and Signal Processing (ICAS
 
 __Membership Inference Attacks against Language Models via Neighbourhood Comparison__\\
 Justus Mattern, Fatemehsadat Mireshghallah, Zhijing Jin, Bernhard Schölkopf, Mrinmaya Sachan, and Taylor Berg-Kirkpatrick\\
-_arXiv preprint arXiv:2305.18462_\\
+_Findings of the Association for Computational Linguistics: ACL_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2305.18462.pdf" %}
 
 __Text Conditional Alt-Text Generation for Twitter Images__\\
