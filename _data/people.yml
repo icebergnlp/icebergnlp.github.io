@@ -9,7 +9,7 @@ tberg:
     bio: Associate Professor
 
 # Grads
-# Alphabetical order
+# Alphabetical order (by last name)
 
 danlu:
     display_name: Danlu Chen
@@ -37,6 +37,13 @@ brendan:
     webpage: http://www.brendanduncan.com/
     role: grad
     image: /img/people/brendan.png
+    bio: PhD Student
+
+jarad:
+    display_name: Jarad Forristal
+    webpage: https://www.fastml.net/
+    role: grad
+    image: /img/people/jarad.jpg
     bio: PhD Student
 
 yasaman:
