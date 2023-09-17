@@ -9,6 +9,24 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=mN6_BKAAAA
 
 ## 2023
 
+__EEBO-Verse: Sifting for Poetry in Large Early Modern Corpora Using Visual Features__\\
+Danlu Chen, Nan Jiang, and Taylor Berg-Kirkpatrick\\
+_International Conference on Document Analysis and Recognition (ICDAR)_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://link.springer.com/chapter/10.1007/978-3-031-41734-4_3" %}
+
+__Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction__\\
+Keren Shao, Ke Chen, Taylor Berg-Kirkpatrick, and Shlomo Dubnov\\
+_arXiv preprint arXiv:2308.02723_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2308.02723" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/SmoothKen/KKNet" %}
+
+__MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies__\\
+Ke Chen, Yusong Wu, Haohe Liu, Marianna Nezhurina, Taylor Berg-Kirkpatrick, and Shlomo Dubnov\\
+_arXiv preprint arXiv:2308.01546_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2308.01546" %}&emsp;
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://musicldm.github.io/" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/RetroCirce/MusicLDM/" %}
+
 __CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models__\\
 Hao-Wen Dong, Xiaoyu Liu, Jordi Pons, Gautam Bhattacharya, Santiago Pascual, Joan Serrà, Taylor Berg-Kirkpatrick, and Julian McAuley\\
 _IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)_\\
@@ -69,7 +87,8 @@ _World Wide Web (WWW), Industry Track_\\
 __Contrastive Attention Networks for Attribution of Early Modern Print__\\
 Nikolai Vogler, Kartik Goyal, Kishore PV Reddy, Elizaveta Pertseva, Samuel V. Lemley, Christopher N. Warren, Max G'Sell, and Taylor Berg-Kirkpatrick\\
 _AAAI Conference on Artificial Intelligence (AAAI)_\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2306.07998.pdf" %}
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2306.07998.pdf" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/nvog/damaged-type" %}
 
 __ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English__\\
 Tanmay Laud\*, Daniel Spokoyny\*, Tom Corringham, and Taylor Berg-Kirkpatrick\\
