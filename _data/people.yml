@@ -83,6 +83,13 @@ nvog:
 
 # Undergrads (alphabetical order)
 
+nan:
+    display_name: Nan Jiang
+    webpage: /
+    role: ugrad
+    image: /img/people/nan.jpg
+    bio: Undergraduate Student
+
 # Past members (reverse chronological order)
 
 fatemeh:

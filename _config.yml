@@ -12,8 +12,8 @@ roles:
     name: Faculty
   - key: grad
     name: Graduate Students
-  # - key: ugrad
-  #   name: Undergraduate Students
+  - key: ugrad
+    name: Undergraduate Students
   - key: past
     name: Past Members
 
