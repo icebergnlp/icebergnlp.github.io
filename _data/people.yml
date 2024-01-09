@@ -32,13 +32,6 @@ herman:
     image: /img/people/herman.jpg
     bio: PhD Student
 
-brendan:
-    display_name: Brendan Duncan
-    webpage: http://www.brendanduncan.com/
-    role: grad
-    image: /img/people/brendan.png
-    bio: PhD Student
-
 jarad:
     display_name: Jarad Forristal
     webpage: https://www.fastml.net/
@@ -58,6 +51,13 @@ ivan:
     webpage: https://ivnle.github.io/
     role: grad
     image: /img/people/ivan.jfif
+    bio: PhD Student
+
+zack:
+    display_name: Zachary Novack
+    webpage: https://zacharynovack.github.io/
+    role: grad
+    image: /img/people/zack.png
     bio: PhD Student
 
 dspokoyn:
@@ -91,6 +91,13 @@ nan:
     bio: Undergraduate Student
 
 # Past members (reverse chronological order)
+
+brendan:
+    display_name: Brendan Duncan
+    webpage: http://www.brendanduncan.com/
+    role: past
+    image: /img/people/brendan.png
+    bio: PhD 2023
 
 fatemeh:
     display_name: Fatemehsadat Mireshghallah
