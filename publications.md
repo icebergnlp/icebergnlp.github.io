@@ -7,7 +7,55 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=mN6_BKAAAA
 
 ---
 
+## 2024
+
+__MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies__\\
+Ke Chen, Yusong Wu, Haohe Liu, Marianna Nezhurina, Taylor Berg-Kirkpatrick, and Shlomo Dubnov\\
+_IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2308.01546.pdf" %}&emsp;
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://musicldm.github.io/" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/RetroCirce/MusicLDM/" %}
+
+---
+
 ## 2023
+
+__CuneiML: A Cuneiform Dataset for Machine Learning__\\
+Danlu Chen, Aditi Agarwal, Taylor Berg-Kirkpatrick, and Jacobo Myerston\\
+_Journal of Open Humanities Data_, 9(1)\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://storage.googleapis.com/jnl-up-j-johd-files/journals/1/articles/151/65703d56cc273.pdf" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/taineleau/CuneiML" %}
+
+__Simple Temporal Adaptation to Changing Label Sets: Hashtag Prediction via Dense KNN__\\
+Niloofar Mireshghallah, Nikolai Vogler, Junxian He, Omar Florez, Ahmed El-Kishky, and Taylor Berg-Kirkpatrick\\
+_Conference on Empirical Methods in Natural Language Processing_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://aclanthology.org/2023.emnlp-main.452.pdf" %}
+
+__A Block Metropolis-Hastings Sampler for Controllable Energy-based Text Generation__\\
+Jarad Forristal, Fatemehsadat Mireshghallah, Greg Durrett, and Taylor Berg-Kirkpatrick\\
+_Conference on Computational Natural Language Learning (CoNLL)_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2312.04510.pdf" %}
+
+__URL-BERT: Training Webpage Representations via Social Media Engagements__\\
+Ayesha Qamar, Chetan Verma, Ahmed El-Kishky, Sumit Binnani, Sneha Mehta, and Taylor Berg-Kirkpatrick\\
+_arXiv preprint arXiv:2310.16303_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2310.16303.pdf" %}
+
+__Unsupervised Lead Sheet Generation via Semantic Compression__\\
+Zachary Novack, Nikita Srivatsan, Taylor Berg-Kirkpatrick, and Julian McAuley\\
+_arXiv preprint arXiv:2310.10772_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2310.10772.pdf" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/ZacharyNovack/Lead-AE" %}
+
+__Exploring the Relationship Between Model Architecture and In-Context Learning Ability__\\
+Ivan Lee, Nan Jiang, and Taylor Berg-Kirkpatrick\\
+_arXiv preprint arXiv:2310.08049_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2310.08049.pdf" %}
+
+__Misusing Tools in Large Language Models With Visual Adversarial Examples__\\
+Xiaohan Fu, Zihan Wang, Shuheng Li, Rajesh K Gupta, Niloofar Mireshghallah, Taylor Berg-Kirkpatrick, and Earlence Fernandes\\
+_arXiv preprint arXiv:2310.03185_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2310.03185.pdf" %}
 
 __EEBO-Verse: Sifting for Poetry in Large Early Modern Corpora Using Visual Features__\\
 Danlu Chen, Nan Jiang, and Taylor Berg-Kirkpatrick\\
@@ -17,15 +65,8 @@ _International Conference on Document Analysis and Recognition (ICDAR)_\\
 __Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction__\\
 Keren Shao, Ke Chen, Taylor Berg-Kirkpatrick, and Shlomo Dubnov\\
 _arXiv preprint arXiv:2308.02723_\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2308.02723" %}&emsp;
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2308.02723.pdf" %}&emsp;
 {% include icon_link.html text="code" icon=site.icons.code href="https://github.com/SmoothKen/KKNet" %}
-
-__MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies__\\
-Ke Chen, Yusong Wu, Haohe Liu, Marianna Nezhurina, Taylor Berg-Kirkpatrick, and Shlomo Dubnov\\
-_arXiv preprint arXiv:2308.01546_\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2308.01546" %}&emsp;
-{% include icon_link.html text="demo" icon=site.icons.demo href="https://musicldm.github.io/" %}&emsp;
-{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/RetroCirce/MusicLDM/" %}
 
 __CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models__\\
 Hao-Wen Dong, Xiaoyu Liu, Jordi Pons, Gautam Bhattacharya, Santiago Pascual, Joan Serrà, Taylor Berg-Kirkpatrick, and Julian McAuley\\
@@ -478,7 +519,7 @@ _International Conference on Machine Learning (ICML)_\\
 __Efficient Correlated Topic Modeling with Topic Embedding__\\
 Junxian He\*, Zhiting Hu\*, Taylor Berg-Kirkpatrick, Ying Huang, and Eric P. Xing.\\
 _ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)_\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/1707.00206" %}
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/1707.00206.pdf" %}
 
 __Automatic Compositor Attribution in the First Folio of Shakespeare__\\
 Maria Ryskina, Hannah Alpert-Abrams, Dan Garrette, and Taylor Berg-Kirkpatrick\\
