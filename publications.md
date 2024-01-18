@@ -14,6 +14,11 @@ Ivan Lee, Nan Jiang, and Taylor Berg-Kirkpatrick\\
 _International Conference on Learning Representations (ICLR)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2310.08049.pdf" %}
 
+__Text Conditional Alt-Text Generation for Twitter Images__\\
+Nikita Srivatsan, Sofia Samaniego, Omar Florez, and Taylor Berg-Kirkpatrick\\
+_International Conference on Learning Representations (ICLR)_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2305.14779.pdf" %}
+
 __MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies__\\
 Ke Chen, Yusong Wu, Haohe Liu, Marianna Nezhurina, Taylor Berg-Kirkpatrick, and Shlomo Dubnov\\
 _IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_\\
@@ -96,11 +101,6 @@ __Membership Inference Attacks against Language Models via Neighbourhood Compari
 Justus Mattern, Fatemehsadat Mireshghallah, Zhijing Jin, Bernhard Schölkopf, Mrinmaya Sachan, and Taylor Berg-Kirkpatrick\\
 _Findings of the Association for Computational Linguistics: ACL_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2305.18462.pdf" %}
-
-__Text Conditional Alt-Text Generation for Twitter Images__\\
-Nikita Srivatsan, Sofia Samaniego, Omar Florez, and Taylor Berg-Kirkpatrick\\
-_arXiv preprint arXiv:2305.14779_\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2305.14779.pdf" %}
 
 __Smaller Language Models are Better Black-box Machine-Generated Text Detectors__\\
 Fatemehsadat Mireshghallah, Justus Mattern, Sicun Gao, Reza Shokri, and Taylor Berg-Kirkpatrick\\
