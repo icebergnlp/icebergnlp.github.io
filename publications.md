@@ -9,6 +9,11 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=mN6_BKAAAA
 
 ## 2024
 
+__Exploring the Relationship Between Model Architecture and In-Context Learning Ability__\\
+Ivan Lee, Nan Jiang, and Taylor Berg-Kirkpatrick\\
+_International Conference on Learning Representations (ICLR)_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2310.08049.pdf" %}
+
 __MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies__\\
 Ke Chen, Yusong Wu, Haohe Liu, Marianna Nezhurina, Taylor Berg-Kirkpatrick, and Shlomo Dubnov\\
 _IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_\\
@@ -52,11 +57,6 @@ Zachary Novack, Nikita Srivatsan, Taylor Berg-Kirkpatrick, and Julian McAuley\\
 _arXiv preprint arXiv:2310.10772_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2310.10772.pdf" %}&emsp;
 {% include icon_link.html text="code" icon=site.icons.code href="https://github.com/ZacharyNovack/Lead-AE" %}
-
-__Exploring the Relationship Between Model Architecture and In-Context Learning Ability__\\
-Ivan Lee, Nan Jiang, and Taylor Berg-Kirkpatrick\\
-_arXiv preprint arXiv:2310.08049_\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2310.08049.pdf" %}
 
 __Misusing Tools in Large Language Models With Visual Adversarial Examples__\\
 Xiaohan Fu, Zihan Wang, Shuheng Li, Rajesh K Gupta, Niloofar Mireshghallah, Taylor Berg-Kirkpatrick, and Earlence Fernandes\\
