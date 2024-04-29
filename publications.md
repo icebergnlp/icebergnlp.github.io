@@ -9,6 +9,23 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=mN6_BKAAAA
 
 ## 2024
 
+__Smaller Language Models are Better Zero-shot Machine-Generated Text Detectors Authors__\\
+Niloofar Mireshghallah, Justus Mattern, Sicun Gao, Reza Shokri, Taylor Berg-Kirkpatrick\\
+_Conference of the European Chapter of the Association for Computational Linguistics (EACL)_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2305.09859.pdf" %}
+
+__MORL-Prompt: An Empirical Analysis of Multi-Objective Reinforcement Learning for Discrete Prompt Optimization__\\
+Yasaman Jafari, Dheeraj Mekala, Rose Yu, Taylor Berg-Kirkpatrick\\
+_arXiv preprint arXiv:2402.11711_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2402.11711.pdf" %}
+
+__DITTO: Diffusion Inference-Time T-Optimization for Music Generation Authors__\\
+Zachary Novack, Julian McAuley, Taylor Berg-Kirkpatrick, Nicholas J Bryan\\
+_arXiv preprint arXiv:2401.12179_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2401.12179.pdf" %}&emsp;
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://ditto-music.github.io/web/" %}
+
+
 __Exploring the Relationship Between Model Architecture and In-Context Learning Ability__\\
 Ivan Lee, Nan Jiang, and Taylor Berg-Kirkpatrick\\
 _International Conference on Learning Representations (ICLR)_\\
