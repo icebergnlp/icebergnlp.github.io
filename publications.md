@@ -25,7 +25,6 @@ _arXiv preprint arXiv:2401.12179_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2401.12179.pdf" %}&emsp;
 {% include icon_link.html text="demo" icon=site.icons.demo href="https://ditto-music.github.io/web/" %}
 
-
 __Exploring the Relationship Between Model Architecture and In-Context Learning Ability__\\
 Ivan Lee, Nan Jiang, and Taylor Berg-Kirkpatrick\\
 _International Conference on Learning Representations (ICLR)_\\
