@@ -9,6 +9,49 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=mN6_BKAAAA
 
 ## 2024
 
+__DITTO: Diffusion Inference-Time T-Optimization for Music Generation Authors__\\
+Zachary Novack, Julian McAuley, Taylor Berg-Kirkpatrick, Nicholas J Bryan\\
+_International Conference on Machine Learning (ICML)_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2401.12179.pdf" %}&emsp;
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://ditto-music.github.io/web/" %}
+
+__Exploring the Relationship Between Model Architecture and In-Context Learning Ability__\\
+Ivan Lee, Nan Jiang, and Taylor Berg-Kirkpatrick\\
+_International Conference on Learning Representations (ICLR)_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2310.08049.pdf" %}
+
+__Grammar-Aligned Decoding__\\
+Kanghee Park, Jiayu Wang, Taylor Berg-Kirkpatrick, Nadia Polikarpova, and Loris D'Antoni\\
+_arXiv preprint arXiv:2405.21047_
+
+__DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music Generation__\\
+Zachary Novack, Julian McAuley, Taylor Berg-Kirkpatrick, and Nicholas Bryan\\
+_arXiv preprint arXiv:2405.20289_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2405.20289.pdf" %}&emsp;
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://ditto-music.github.io/ditto2/" %}
+
+__HYSYNTH: Context-Free LLM Approximation for Guiding Program Synthesis__\\
+Shraddha Barke, Emmanuel Anaya Gonzalez, Saketh Ram Kasibatla, Taylor Berg-Kirkpatrick, and Nadia Polikarpova\\
+_arXiv preprint arXiv:2405.15880_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2405.15880.pdf" %}
+
+__Text Conditional Alt-Text Generation for Twitter Images__\\
+Nikita Srivatsan, Sofia Samaniego, Omar Florez, and Taylor Berg-Kirkpatrick\\
+_International Conference on Learning Representations (ICLR)_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2305.14779.pdf" %}
+
+__Clustering Running Titles to Understand the Printing of Early Modern Books__\\
+Nikolai Vogler, Kartik Goyal, Samuel V. Lemley, D.J. Schuldt, Christopher N. Warren, Max G'Sell, and Taylor Berg-Kirkpatrick\\
+International Conference on Document Analysis and Recognition (ICDAR)\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2405.00752.pdf" %}
+
+__MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies__\\
+Ke Chen, Yusong Wu, Haohe Liu, Marianna Nezhurina, Taylor Berg-Kirkpatrick, and Shlomo Dubnov\\
+_IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2308.01546.pdf" %}&emsp;
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://musicldm.github.io/" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/RetroCirce/MusicLDM/" %}
+
 __Smaller Language Models are Better Zero-shot Machine-Generated Text Detectors Authors__\\
 Niloofar Mireshghallah, Justus Mattern, Sicun Gao, Reza Shokri, Taylor Berg-Kirkpatrick\\
 _Conference of the European Chapter of the Association for Computational Linguistics (EACL)_\\
@@ -18,29 +61,6 @@ __MORL-Prompt: An Empirical Analysis of Multi-Objective Reinforcement Learning f
 Yasaman Jafari, Dheeraj Mekala, Rose Yu, Taylor Berg-Kirkpatrick\\
 _arXiv preprint arXiv:2402.11711_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2402.11711.pdf" %}
-
-__DITTO: Diffusion Inference-Time T-Optimization for Music Generation Authors__\\
-Zachary Novack, Julian McAuley, Taylor Berg-Kirkpatrick, Nicholas J Bryan\\
-_arXiv preprint arXiv:2401.12179_\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2401.12179.pdf" %}&emsp;
-{% include icon_link.html text="demo" icon=site.icons.demo href="https://ditto-music.github.io/web/" %}
-
-__Exploring the Relationship Between Model Architecture and In-Context Learning Ability__\\
-Ivan Lee, Nan Jiang, and Taylor Berg-Kirkpatrick\\
-_International Conference on Learning Representations (ICLR)_\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2310.08049.pdf" %}
-
-__Text Conditional Alt-Text Generation for Twitter Images__\\
-Nikita Srivatsan, Sofia Samaniego, Omar Florez, and Taylor Berg-Kirkpatrick\\
-_International Conference on Learning Representations (ICLR)_\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2305.14779.pdf" %}
-
-__MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies__\\
-Ke Chen, Yusong Wu, Haohe Liu, Marianna Nezhurina, Taylor Berg-Kirkpatrick, and Shlomo Dubnov\\
-_IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2308.01546.pdf" %}&emsp;
-{% include icon_link.html text="demo" icon=site.icons.demo href="https://musicldm.github.io/" %}&emsp;
-{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/RetroCirce/MusicLDM/" %}
 
 ---
 
