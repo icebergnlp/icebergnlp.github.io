@@ -9,6 +9,15 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=mN6_BKAAAA
 
 ## 2024
 
+__LogogramNLP: Comparing Visual and Textual Representations of Ancient Logographic Writing Systems for NLP__ \\
+Danlu Chen, Freda Shi, Aditi Agarwal, Jacobo Myerston, Taylor Berg-Kirkpatrick\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2408.04628" %}&emsp;
+{% include icon_link.html text="project page" icon=site.icons.demo href="https://logogramnlp.github.io/" %}&emsp;
+{% include icon_link.html text="data" icon=site.icons.demo href="https://github.com/taineleau/logogramNLP/tree/main/data" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/taineleau/logogramnlp" %}
+
+
+
 __DITTO: Diffusion Inference-Time T-Optimization for Music Generation Authors__\\
 Zachary Novack, Julian McAuley, Taylor Berg-Kirkpatrick, Nicholas J Bryan\\
 _International Conference on Machine Learning (ICML)_\\
