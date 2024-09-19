@@ -11,11 +11,31 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=mN6_BKAAAA
 
 __LogogramNLP: Comparing Visual and Textual Representations of Ancient Logographic Writing Systems for NLP__ \\
 Danlu Chen, Freda Shi, Aditi Agarwal, Jacobo Myerston, Taylor Berg-Kirkpatrick\\
+_Association for Computational Linguistics (ACL)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2408.04628" %}&emsp;
 {% include icon_link.html text="project page" icon=site.icons.demo href="https://logogramnlp.github.io/" %}&emsp;
 {% include icon_link.html text="data" icon=site.icons.demo href="https://github.com/taineleau/logogramNLP/tree/main/data" %}&emsp;
 {% include icon_link.html text="code" icon=site.icons.code href="https://github.com/taineleau/logogramnlp" %}
 
+__Classification of Paleographic Artifacts at Scale: Mitigating Confounds and Distribution Shift in Cuneiform Tablet Dating__ \\
+Danlu Chen, Jiahe Tian, Yufei Weng, Taylor Berg-Kirkpatrick, Jacobo Myerston \\
+_Machine Learning for Ancient Languages (ML4AL)_ \\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://aclanthology.org/2024.ml4al-1.4.pdf" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/taineleau/CuneiML/tree/main/ml4al_2024_dating" %}
+
+__MONSTERMASH: Multidirectional, Overlapping, Nested, Spiral Text Extraction for Recognition Models of Arabic-Script Handwriting__ \\
+Danlu Chen, Jacob Murel, Taimoor Shahid, Xiang Zhang, Jonathan Parkes Allen, Taylor Berg-Kirkpatrick, David A. Smith \\
+_International workshop on Computational Paleography (IWCP)_ \\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://link.springer.com/chapter/10.1007/978-3-031-70642-4_6" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/taineleau/MONSTERMASH" %}
+
+__Improving Generalization of Speech Separation in Real-World Scenarios: Strategies in Simulation, Optimization, and Evaluation__ \\
+Ke Chen, Jiaqi Su, Taylor Berg-Kirkpatrick, Shlomo Dubnov, Zeyu Jin\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2408.16126" %}
+
+__HYSYNTH: Context-Free LLM Approximation for Guiding Program Synthesis__\\
+Shraddha Barke, Emmanuel Anaya Gonzalez, Saketh Ram Kasibatla, Taylor Berg-Kirkpatrick, Nadia Polikarpova \\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2405.15880" %}
 
 
 __DITTO: Diffusion Inference-Time T-Optimization for Music Generation Authors__\\
