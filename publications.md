@@ -33,10 +33,6 @@ __Improving Generalization of Speech Separation in Real-World Scenarios: Strateg
 Ke Chen, Jiaqi Su, Taylor Berg-Kirkpatrick, Shlomo Dubnov, Zeyu Jin\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2408.16126" %}
 
-__HYSYNTH: Context-Free LLM Approximation for Guiding Program Synthesis__\\
-Shraddha Barke, Emmanuel Anaya Gonzalez, Saketh Ram Kasibatla, Taylor Berg-Kirkpatrick, Nadia Polikarpova \\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2405.15880" %}
-
 
 __DITTO: Diffusion Inference-Time T-Optimization for Music Generation Authors__\\
 Zachary Novack, Julian McAuley, Taylor Berg-Kirkpatrick, Nicholas J Bryan\\
@@ -55,7 +51,7 @@ _arXiv preprint arXiv:2405.21047_
 
 __DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music Generation__\\
 Zachary Novack, Julian McAuley, Taylor Berg-Kirkpatrick, and Nicholas Bryan\\
-_arXiv preprint arXiv:2405.20289_\\
+_International Society for Music Information Retrieval Conference (ISMIR)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2405.20289.pdf" %}&emsp;
 {% include icon_link.html text="demo" icon=site.icons.demo href="https://ditto-music.github.io/ditto2/" %}
 
