@@ -9,6 +9,15 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=mN6_BKAAAA
 
 ## 2024
 
+__PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing__ \\
+Phillip Long, Zachary Novack, Taylor Berg-Kirkpatrick, Julian McAuley \\
+_Arxiv_ \\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2409.10831" %}&emsp;
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://pnlong.github.io/PDMX.demo/" %}&emsp;
+{% include icon_link.html text="data" icon=site.icons.demo href="https://zenodo.org/records/13763756" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/pnlong/PDMX/" %}
+
+
 __LogogramNLP: Comparing Visual and Textual Representations of Ancient Logographic Writing Systems for NLP__ \\
 Danlu Chen, Freda Shi, Aditi Agarwal, Jacobo Myerston, Taylor Berg-Kirkpatrick\\
 _Association for Computational Linguistics (ACL)_\\
