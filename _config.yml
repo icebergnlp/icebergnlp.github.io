@@ -11,7 +11,11 @@ roles:
   - key: faculty
     name: Faculty
   - key: grad
-    name: Graduate Students
+    name: PhD Students
+  - key: master
+    name: Master Students
+  - key: visitor
+    name: Visitors
   - key: ugrad
     name: Undergraduate Students
   - key: past
