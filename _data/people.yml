@@ -53,30 +53,49 @@ nvog:
     image: /img/people/nvog.jpg
     bio: PhD Student
 
+## Masters
+
+yufei:
+    display_name: Yufei (Jerry) Weng
+    webpage: None
+    role: master
+    image: /img/people/yufei.png
+    bio: Master Student
+
 # Undergrads (alphabetical order)
+
+# Visitors
+
+kasing:
+    display_name: Ka Sing He
+    webpage: none
+    role: visitor
+    image: /img/people/kasing.jpg
+    bio: Visiting Undergrad from HKUST
+
+
+# Past members (reverse chronological order)
 
 nan:
     display_name: Nan Jiang
     webpage: https://nanjiangwill.github.io/
-    role: ugrad
+    role: pass
     image: /img/people/nan.jpg
-    bio: Undergraduate Student
-
-# Past members (reverse chronological order)
+    bio: BS 2024
 
 ke:
     display_name: Ke Chen
     webpage: https://www.knutchen.com/
     role: past
     image: /img/people/kechen.jpg
-    bio: PhD 2024, joining Adobe
+    bio: PhD 2024, now at Adobe
 
 herman:
     display_name: Hao-Wen Dong
     webpage: https://hermandong.com/
     role: past
     image: /img/people/herman.jpg
-    bio: PhD 2024, joining University of Michigan
+    bio: PhD 2024, now Assistant Professor at University of Michigan
 
 dspokoyn:
     display_name: Daniel Spokoyny
@@ -90,7 +109,7 @@ nsrivats:
     webpage: http://www.cs.cmu.edu/~asrivats/
     role: past
     image: /img/people/nsrivats.jpg
-    bio: PhD 2024, joining Scaled Cognition
+    bio: PhD 2024, now at Scaled Cognition
 
 brendan:
     display_name: Brendan Duncan
@@ -104,7 +123,7 @@ fatemeh:
     webpage: https://cseweb.ucsd.edu/~fmireshg/
     role: past
     image: /img/people/fatemeh.jpg
-    bio: PhD 2023, now at University of Washington
+    bio: PhD 2023, now Postdoc at University of Washington
 
 tanmay:
     display_name: Tanmay Laud
@@ -118,14 +137,14 @@ mryskina:
     webpage: http://www.cs.cmu.edu/~mryskina/
     role: past
     image: /img/people/mryskina.jpg
-    bio: PhD 2022, now at Massachusetts Institute of Technology
+    bio: PhD 2022, now Postdoc at Massachusetts Institute of Technology
 
 junxian:
     display_name: Junxian He
     role: past
     webpage: https://jxhe.github.io/
     image: /img/people/junxian1.jpg
-    bio: PhD 2022, now at Hong Kong University of Science and Technology
+    bio: PhD 2022, now Assistant Professor at Hong Kong University of Science and Technology
 
 vcirik:
     display_name: Volkan Cirik
@@ -159,7 +178,7 @@ kartikgo:
     display_name: Kartik Goyal
     role: past
     webpage: https://kartikgo.github.io/
-    bio: PhD 2021, now at Georgia Tech
+    bio: PhD 2021, now Assistant Professor at Georgia Tech
 
 kunal:
     display_name: Kunal Jain
@@ -173,14 +192,14 @@ jwieting:
     webpage: http://www.cs.cmu.edu/~jwieting/
     role: past
     image: /img/people/jwieting.jpg
-    bio: PhD 2020, now at Google AI
+    bio: PhD 2020, now at Google Deepmind
 
 aashi:
     display_name: Aashi Jain
     webpage: https://aashi7jain.com/
     role: past
     image: /img/people/aashi.jpeg
-    bio: MS 2020, now at Google AI
+    bio: MS 2020, now at Google Deepmind
 
 kishore:
     display_name: Kishore P. V.
@@ -201,7 +220,7 @@ zichaoy:
     webpage: http://www.cs.cmu.edu/~zichaoy/
     role: past
     image: /img/people/zichaoy.jpg
-    bio: PhD 2018
+    bio: PhD 2018, now at Citadel Securities
 
 kmaki:
     display_name: Korte Maki
