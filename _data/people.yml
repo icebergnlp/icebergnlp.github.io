@@ -79,7 +79,7 @@ yufei:
 kasing:
     display_name: Ka Sing He
     webpage: none
-    role: visitor
+    role: master
     image: /img/people/kasing.jpg
     bio: Master Student
 
@@ -87,8 +87,6 @@ kasing:
 # Undergrads (alphabetical order)
 
 # Visitors
-
-
 
 # Past members (reverse chronological order)
 
