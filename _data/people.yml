@@ -25,12 +25,6 @@ vivian:
     image: /img/people/vivian.jpg
     bio: PhD Student
 
-jarad:
-    display_name: Jarad Forristal
-    webpage: https://www.fastml.net/
-    role: grad
-    image: /img/people/jarad.jpg
-    bio: PhD Student
 
 yasaman:
     display_name: Yasaman Jafari
@@ -58,6 +52,13 @@ nvog:
     webpage: https://nvog.github.io/
     role: grad
     image: /img/people/nvog.jpg
+    bio: PhD Student
+
+iwhite:
+    display_name: Isadora White
+    webpage: https://icwhite.github.io/website/
+    role: grad
+    image: /img/people/iwhite.jpg
     bio: PhD Student
 
 cyang:
