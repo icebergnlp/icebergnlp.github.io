@@ -25,6 +25,12 @@ vivian:
     image: /img/people/vivian.jpg
     bio: PhD Student
 
+hansen:
+    display_name: Hansen Jin Lillemark
+    webpage: https://hansenlillemark.com/
+    role: grad
+    image: /img/people/hansen.png
+    bio: PhD Student
 
 yasaman:
     display_name: Yasaman Jafari
@@ -70,13 +76,6 @@ cyang:
 
 ## Masters
 
-yufei:
-    display_name: Yufei (Jerry) Weng
-    webpage: None
-    role: master
-    image: /img/people/yufei.png
-    bio: Master Student
-
 kasing:
     display_name: Ka Sing He
     webpage: none
@@ -90,6 +89,13 @@ kasing:
 # Visitors
 
 # Past members (reverse chronological order)
+
+yufei:
+    display_name: Yufei (Jerry) Weng
+    webpage: None
+    role: pass
+    image: /img/people/yufei.png
+    bio: MS 2025
 
 nan:
     display_name: Nan Jiang

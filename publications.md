@@ -14,9 +14,8 @@ __MuseTok: Symbolic Music Tokenization for Generation and Semantic Understanding
 Jingyue Huang, Zachary Novack, Phillip Long, Yupeng Hou, Ke Chen, Taylor Berg-Kirkpatrick, Julian McAuley \\
 _ICASSP_ \\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2510.16273" %}&emsp;
-{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/Yuer867/MuseTok" %}
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/Yuer867/MuseTok" %}&emsp;
 {% include icon_link.html text="demo" icon=site.icons.demo href="https://musetok.github.io/" %}&emsp;
-
 
 
 ## 2025
@@ -60,6 +59,16 @@ __Constrained Adaptive Rejection Sampling__ \\
 Paweł Parys, Sairam Vaidya, Taylor Berg-Kirkpatrick, Loris D'Antoni \\
 _Arxiv_ \\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2510.01902" %}&emsp;
+
+__Are you really listening? Boosting Perceptual Awareness in Music-QA Benchmarks__ \\
+Yongyi Zang, Sean O'Brien, Taylor Berg-Kirkpatrick, Julian McAuley, Zachary Novack \\
+_Arxiv_ \\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2504.00369" %}&emsp;
+
+__Fast Text-to-Audio Generation with Adversarial Post-Training__ \\
+Zachary Novack, Zach Evans, Zack Zukowski, Josiah Taylor, CJ Carr, Julian Parker, Adnan Al-Sinan, Gian Marco Iodice, Julian McAuley, Taylor Berg-Kirkpatrick, Jordi Pons \\
+_Arxiv_ \\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2505.08175" %}&emsp;
 
 __PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing__ \\
 Phillip Long, Zachary Novack, Taylor Berg-Kirkpatrick, Julian McAuley \\
@@ -164,6 +173,16 @@ __MORL-Prompt: An Empirical Analysis of Multi-Objective Reinforcement Learning f
 Yasaman Jafari, Dheeraj Mekala, Rose Yu, Taylor Berg-Kirkpatrick\\
 _arXiv preprint arXiv:2402.11711_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2402.11711.pdf" %}
+
+__Imprompter: Tricking LLM Agents into Improper Tool Use__\\
+Xiaohan Fu, Shuheng Li, Zihan Wang, Yihao Liu, Rajesh K. Gupta, Taylor Berg-Kirkpatrick, Earlence Fernandes\\
+_Arxiv_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2410.14923" %}&emsp;
+
+__Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation__\\
+Bohan Lyu, Yadi Cao, Duncan Watson-Parris, Leon Bergen, Taylor Berg-Kirkpatrick, Rose Yu\\
+_International Conference on Machine Learning (ICML)_\\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2411.00412" %}&emsp;
 
 ---
 
