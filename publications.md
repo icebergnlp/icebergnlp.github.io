@@ -7,11 +7,31 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=mN6_BKAAAA
 
 ---
 
+## 2026
+
+
+__MuseTok: Symbolic Music Tokenization for Generation and Semantic Understanding__ \\
+Jingyue Huang, Zachary Novack, Phillip Long, Yupeng Hou, Ke Chen, Taylor Berg-Kirkpatrick, Julian McAuley \\
+_ICASSP_ \\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2510.16273" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/Yuer867/MuseTok" %}
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://musetok.github.io/" %}&emsp;
+
+
+
 ## 2025
+
+__BACHI: Boundary-Aware Symbolic Chord Recognition Through Masked Iterative Decoding on Pop and Classical Music__ \\
+Mingyang Yao, Ke Chen, Shlomo Dubnov, Taylor Berg-Kirkpatrick \\
+_Arxiv_ \\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2510.06528" %}&emsp;
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://andyweasley2004.github.io/BACHI/" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/AndyWeasley2004/BACHI_Chord_Recognition" %}
 
 __Readability != Learnability: Rethinking the Role of Simplicity in Training Small Language Models__ \\
 Ivan Lee, Taylor Berg-Kirkpatrick \\
 _COLM_ \\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2510.13915" %}&emsp;
 
 __ClimaQA: An Automated Evaluation Framework for Climate Foundation Models__ \\
 Veeramakali Vignesh Manivannan and Yasaman Jafari and Srikar Eranky and Spencer Ho and Rose Yu and Duncan Watson-Parris and Yian Ma and Leon Bergen and Taylor Berg-Kirkpatrick \\
@@ -22,7 +42,7 @@ _ICLR_\\
 __Generating symbolic music from natural language prompts using an llm-enhanced dataset__ \\
 _ISMIR_ \\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2410.02084" %}&emsp;
-{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/wx83/MetaScore_Official/tree/codebase" %}
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/wx83/MetaScore_Official/tree/codebase" %}&emsp;
 {% include icon_link.html text="demo" icon=site.icons.demo href="https://wx83.github.io/MetaScore_Official/" %}&emsp;
 
 __Presto! distilling steps and layers for accelerating music generation__ \\
@@ -36,13 +56,26 @@ _ICLR_ \\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2410.05586" %}&emsp;
 
 
+__Constrained Adaptive Rejection Sampling__ \\
+Paweł Parys, Sairam Vaidya, Taylor Berg-Kirkpatrick, Loris D'Antoni \\
+_Arxiv_ \\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2510.01902" %}&emsp;
+
+__PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing__ \\
+Phillip Long, Zachary Novack, Taylor Berg-Kirkpatrick, Julian McAuley \\
+_ICSAPP_ \\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2409.10831" %}&emsp;
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://pnlong.github.io/PDMX.demo/" %}&emsp;
+{% include icon_link.html text="data" icon=site.icons.demo href="https://zenodo.org/records/13763756" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/pnlong/PDMX/" %}
+
 ## 2024
 
 
 __Grammar-aligned decoding__ \\
 Kanghee Park, Jiayu Wang, Taylor Berg-Kirkpatrick, Nadia Polikarpova, Loris D'Antoni \\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://proceedings.neurips.cc/paper_files/paper/2024/file/2bdc2267c3d7d01523e2e17ac0a754f3-Paper-Conference.pdf" %}&emsp;
 _NeurIPS_ \\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://proceedings.neurips.cc/paper_files/paper/2024/file/2bdc2267c3d7d01523e2e17ac0a754f3-Paper-Conference.pdf" %}&emsp;
 
 
 __MAWI Rec: Leveraging Severe Weather Data in Recommendation__ \\
@@ -57,14 +90,6 @@ _ICDAR_ \\
 __MONSTERMASH: multidirectional, overlapping, nested, spiral text extraction for recognition models of Arabic-script handwriting__ \\
 Danlu Chen, Jacob Murel, Taimoor Shahid, Xiang Zhang, Jonathan Parkes Allen, Taylor Berg-Kirkpatrick, David A Smith \\
 _3rd Workshop on Computational Paleography_ \\
-
-__PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing__ \\
-Phillip Long, Zachary Novack, Taylor Berg-Kirkpatrick, Julian McAuley \\
-_Arxiv_ \\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2409.10831" %}&emsp;
-{% include icon_link.html text="demo" icon=site.icons.demo href="https://pnlong.github.io/PDMX.demo/" %}&emsp;
-{% include icon_link.html text="data" icon=site.icons.demo href="https://zenodo.org/records/13763756" %}&emsp;
-{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/pnlong/PDMX/" %}
 
 __LogogramNLP: Comparing Visual and Textual Representations of Ancient Logographic Writing Systems for NLP__ \\
 Danlu Chen, Freda Shi, Aditi Agarwal, Jacobo Myerston, Taylor Berg-Kirkpatrick\\
@@ -101,10 +126,6 @@ __Exploring the Relationship Between Model Architecture and In-Context Learning 
 Ivan Lee, Nan Jiang, and Taylor Berg-Kirkpatrick\\
 _International Conference on Learning Representations (ICLR)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2310.08049.pdf" %}
-
-__Grammar-Aligned Decoding__\\
-Kanghee Park, Jiayu Wang, Taylor Berg-Kirkpatrick, Nadia Polikarpova, and Loris D'Antoni\\
-_arXiv preprint arXiv:2405.21047_
 
 __DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music Generation__\\
 Zachary Novack, Julian McAuley, Taylor Berg-Kirkpatrick, and Nicholas Bryan\\
