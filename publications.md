@@ -48,6 +48,7 @@ __Presto! distilling steps and layers for accelerating music generation__ \\
 Zachary Novack, Ge Zhu, Jonah Casebeer, Julian McAuley, Taylor Berg-Kirkpatrick, Nicholas J Bryan \\
 _International Conference on Learning Representations (ICLR)_ \\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2410.05167" %}&emsp;
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://presto-music.github.io/web/" %}&emsp;
 
 __TEASERGEN: GENERATING TEASERS FOR LONG DOCUMENTARIES__ \\
 Weihan Xu, Paul Pu Liang, Haven Kim, Julian McAuley, Taylor Berg-Kirkpatrick, Hao-Wen Dong \\
@@ -67,8 +68,14 @@ _Arxiv_ \\
 
 __Fast Text-to-Audio Generation with Adversarial Post-Training__ \\
 Zachary Novack, Zach Evans, Zack Zukowski, Josiah Taylor, CJ Carr, Julian Parker, Adnan Al-Sinan, Gian Marco Iodice, Julian McAuley, Taylor Berg-Kirkpatrick, Jordi Pons \\
-_Arxiv_ \\
+_IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)_ \\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2505.08175" %}&emsp;
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://arc-text2audio.github.io/web/" %}&emsp;
+
+__The Surprising Soupability of Documents in State Space Models__ \\
+Yasaman Jafari, Zixian Wang, Leon Bergen, Taylor Berg-Kirkpatrick \\
+_Arxiv_ \\
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2505.24033" %}&emsp;
 
 __PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing__ \\
 Phillip Long, Zachary Novack, Taylor Berg-Kirkpatrick, Julian McAuley \\
@@ -131,7 +138,7 @@ _International Conference on Machine Learning (ICML)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2401.12179.pdf" %}&emsp;
 {% include icon_link.html text="demo" icon=site.icons.demo href="https://ditto-music.github.io/web/" %}
 
-__Exploring the Relationship Between Model Architecture and In-Context Learning Ability__\\
+__Is attention required for ICL? Exploring the Relationship Between Model Architecture and In-Context Learning Ability__\\
 Ivan Lee, Nan Jiang, and Taylor Berg-Kirkpatrick\\
 _International Conference on Learning Representations (ICLR)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2310.08049.pdf" %}
@@ -178,11 +185,14 @@ __Imprompter: Tricking LLM Agents into Improper Tool Use__\\
 Xiaohan Fu, Shuheng Li, Zihan Wang, Yihao Liu, Rajesh K. Gupta, Taylor Berg-Kirkpatrick, Earlence Fernandes\\
 _Arxiv_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2410.14923" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/Reapor-Yurnero/imprompter" %}&emsp;
+{% include icon_link.html text="demo" icon=site.icons.demo href="https://imprompter.ai" %}&emsp;
 
 __Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation__\\
 Bohan Lyu, Yadi Cao, Duncan Watson-Parris, Leon Bergen, Taylor Berg-Kirkpatrick, Rose Yu\\
 _International Conference on Machine Learning (ICML)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2411.00412" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/Rose-STL-Lab/Adapting-While-Learning" %}&emsp;
 
 ---
 
@@ -391,7 +401,8 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASS
 __Towards a Unified View of Parameter-Efficient Transfer Learning__\\
 Junxian He*, Chunting Zhou*, Xuezhe Ma, Taylor Berg-Kirkpatrick, and Graham Neubig\\
 _International Conference on Learning Representations (ICLR)_\\
-{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2110.04366.pdf" %}
+{% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2110.04366.pdf" %}&emsp;
+{% include icon_link.html text="code" icon=site.icons.code href="https://github.com/jxhe/unify-parameter-efficient-tuning" %}&emsp;
 
 __Exposing the Implicit Energy Networks behind Masked Language Models via Metropolis–Hastings__\\
 Kartik Goyal, Chris Dyer, and Taylor Berg-Kirkpatrick\\
