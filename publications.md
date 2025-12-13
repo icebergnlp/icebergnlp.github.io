@@ -12,7 +12,7 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=mN6_BKAAAA
 
 __MuseTok: Symbolic Music Tokenization for Generation and Semantic Understanding__ \\
 Jingyue Huang, Zachary Novack, Phillip Long, Yupeng Hou, Ke Chen, Taylor Berg-Kirkpatrick, Julian McAuley \\
-_ICASSP_ \\
+_IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_ \\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2510.16273" %}&emsp;
 {% include icon_link.html text="code" icon=site.icons.code href="https://github.com/Yuer867/MuseTok" %}&emsp;
 {% include icon_link.html text="demo" icon=site.icons.demo href="https://musetok.github.io/" %}&emsp;
@@ -29,29 +29,29 @@ _Arxiv_ \\
 
 __Readability != Learnability: Rethinking the Role of Simplicity in Training Small Language Models__ \\
 Ivan Lee, Taylor Berg-Kirkpatrick \\
-_COLM_ \\
+_Conference on Language Modeling (COLM)_ \\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2510.13915" %}&emsp;
 
 __ClimaQA: An Automated Evaluation Framework for Climate Foundation Models__ \\
 Veeramakali Vignesh Manivannan and Yasaman Jafari and Srikar Eranky and Spencer Ho and Rose Yu and Duncan Watson-Parris and Yian Ma and Leon Bergen and Taylor Berg-Kirkpatrick \\
-_ICLR_\\
+_International Conference on Learning Representations (ICLR)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2410.16701" %}&emsp;
 {% include icon_link.html text="code" icon=site.icons.code href="https://github.com/Rose-STL-Lab/genie-climaqa" %}
 
 __Generating symbolic music from natural language prompts using an llm-enhanced dataset__ \\
-_ISMIR_ \\
+_International Society for Music Information Retrieval Conference (ISMIR)_ \\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2410.02084" %}&emsp;
 {% include icon_link.html text="code" icon=site.icons.code href="https://github.com/wx83/MetaScore_Official/tree/codebase" %}&emsp;
 {% include icon_link.html text="demo" icon=site.icons.demo href="https://wx83.github.io/MetaScore_Official/" %}&emsp;
 
 __Presto! distilling steps and layers for accelerating music generation__ \\
 Zachary Novack, Ge Zhu, Jonah Casebeer, Julian McAuley, Taylor Berg-Kirkpatrick, Nicholas J Bryan \\
-_ICLR_ \\
+_International Conference on Learning Representations (ICLR)_ \\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2410.05167" %}&emsp;
 
 __TEASERGEN: GENERATING TEASERS FOR LONG DOCUMENTARIES__ \\
 Weihan Xu, Paul Pu Liang, Haven Kim, Julian McAuley, Taylor Berg-Kirkpatrick, Hao-Wen Dong \\
-_ICLR_ \\
+_International Conference on Learning Representations (ICLR)_ \\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/abs/2410.05586" %}&emsp;
 
 
@@ -72,7 +72,7 @@ _Arxiv_ \\
 
 __PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing__ \\
 Phillip Long, Zachary Novack, Taylor Berg-Kirkpatrick, Julian McAuley \\
-_ICSAPP_ \\
+_IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_ \\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2409.10831" %}&emsp;
 {% include icon_link.html text="demo" icon=site.icons.demo href="https://pnlong.github.io/PDMX.demo/" %}&emsp;
 {% include icon_link.html text="data" icon=site.icons.demo href="https://zenodo.org/records/13763756" %}&emsp;
@@ -83,7 +83,7 @@ _ICSAPP_ \\
 
 __Grammar-aligned decoding__ \\
 Kanghee Park, Jiayu Wang, Taylor Berg-Kirkpatrick, Nadia Polikarpova, Loris D'Antoni \\
-_NeurIPS_ \\
+_Conference on Neural Information Processing Systems (NeurIPS)_ \\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://proceedings.neurips.cc/paper_files/paper/2024/file/2bdc2267c3d7d01523e2e17ac0a754f3-Paper-Conference.pdf" %}&emsp;
 
 
@@ -93,7 +93,7 @@ _Conference on Recommender Systems_ \\
 
 __Clustering Running Titles to Understand the Printing of Early Modern Books__ \\
 Nikolai Vogler, Kartik Goyal, Samuel V Lemley, DJ Schuldt, Christopher N Warren, Max G’Sell, Taylor Berg-Kirkpatrick \\
-_ICDAR_ \\
+_International Conference on Document Analysis and Recognition (ICDAR)_ \\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2405.00752" %}&emsp;
 
 __MONSTERMASH: multidirectional, overlapping, nested, spiral text extraction for recognition models of Arabic-script handwriting__ \\
@@ -154,7 +154,7 @@ _International Conference on Learning Representations (ICLR)_\\
 
 __Clustering Running Titles to Understand the Printing of Early Modern Books__\\
 Nikolai Vogler, Kartik Goyal, Samuel V. Lemley, D.J. Schuldt, Christopher N. Warren, Max G'Sell, and Taylor Berg-Kirkpatrick\\
-International Conference on Document Analysis and Recognition (ICDAR)\\
+_International Conference on Document Analysis and Recognition (ICDAR)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://arxiv.org/pdf/2405.00752.pdf" %}
 
 __MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies__\\
@@ -196,7 +196,7 @@ _Journal of Open Humanities Data_, 9(1)\\
 
 __Simple Temporal Adaptation to Changing Label Sets: Hashtag Prediction via Dense KNN__\\
 Niloofar Mireshghallah, Nikolai Vogler, Junxian He, Omar Florez, Ahmed El-Kishky, and Taylor Berg-Kirkpatrick\\
-_Conference on Empirical Methods in Natural Language Processing_\\
+_Conference on Empirical Methods in Natural Language Processing (EMNLP)_\\
 {% include icon_link.html text="paper" icon=site.icons.paper href="https://aclanthology.org/2023.emnlp-main.452.pdf" %}
 
 __A Block Metropolis-Hastings Sampler for Controllable Energy-based Text Generation__\\
